@@ -43,8 +43,7 @@ This project follows a complete, end-to-end data analysis workflow:
 ### 1️⃣ Executive Overview  
 A high-level summary for leadership to understand overall performance and risk exposure in under 30 seconds.  
 
-![Executive Dashboard](https://github.com/aryanpange/mumbai-billboard-analytics
-/blob/main/dashboard-overview.png?raw=true)  
+![Executive Dashboard](https://github.com/aryanpange/mumbai-billboard-analytics/blob/main/dashboard-overview.png?raw=true)  
 
 ---
 
