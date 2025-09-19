@@ -1,0 +1,215 @@
+Billboard_ID,Location_Name,Borough,Location_Type,Billboard_Type,Width_ft,Height_ft,Monthly_Impressions_Est,Monthly_Rate_INR,cpi_inr,gap_ratio,Permit_Status,Last_Audit_Date,Risk_Score,Risk_Tier,Client_ID,Client_Name,Client_Industry
+MUM-W-001,Bandra-Worli Sea Link,West Suburbs,Highway,Digital,60,30,2500000,850000,0.34,-0.2142857142857142,Active,2024-11-15,0,No Apparent Risk,CL01,Netflix India,Entertainment
+MUM-C-002,Dadar Station West,Mumbai City,Transit Hub,Static,40,20,1800000,400000,0.2222222222222222,-0.34013605442176875,Active,2025-03-10,0,No Apparent Risk,CL02,Coca-Cola,FMCG
+MUM-W-003,Juhu Circle,West Suburbs,Commercial Hub,Digital,50,25,1500000,600000,0.4,0.006802721088435382,Active,2025-01-20,0,No Apparent Risk,CL03,Samsung,Electronics
+MUM-S-004,Marine Drive,South Mumbai,Arterial Road,Static,30,15,2000000,750000,0.375,-0.07823129251700678,Expired,2022-12-01,4,High Risk,CL04,ICICI Bank,Finance
+MUM-W-005,Andheri East Station,West Suburbs,Transit Hub,Static,40,20,1750000,380000,0.21714285714285714,-0.33673469387755106,Pending,2024-08-22,1,Low Risk,,,
+MUM-E-006,Powai,400076,East Suburbs,Digital,40,20,1200000,550000,0.4583333333333333,0.09863945578231292,Active,2025-05-18,0,No Apparent Risk,CL05,Lodha Group,Real Estate
+MUM-W-007,Goregaon Film City Road,West Suburbs,Arterial Road,Static,50,25,900000,250000,0.2777777777777778,-0.06462585034013604,Active,2024-07-30,0,No Apparent Risk,CL01,Netflix India,Entertainment
+MUM-S-008,CST Station,South Mumbai,Transit Hub,Digital,60,30,2200000,800000,0.36363636363636365,-0.12244897959183676,Active,2025-02-11,0,No Apparent Risk,CL06,Myntra,E-commerce
+MUM-W-009,Bandra Linking Road,West Suburbs,Commercial Hub,Static,30,15,1600000,450000,0.28125,-0.19387755102040813,Active,2024-09-05,0,No Apparent Risk,CL06,Myntra,E-commerce
+MUM-E-011,Chembur,400071,East Suburbs,Static,40,20,1100000,280000,0.2545454545454545,-0.12925170068027209,Active,2022-10-25,1,Low Risk,,,
+MUM-S-012,Colaba Causeway,South Mumbai,Commercial Hub,Digital,30,15,1300000,500000,0.38461538461538464,0.0,Active,2025-08-01,0,No Apparent Risk,CL08,Starbucks,F&B
+MUM-W-013,Malad,400064,West Suburbs,Static,50,25,1400000,320000,0.22857142857142856,-0.2312925170068027,Expired,2023-01-15,4,High Risk,CL02,Coca-Cola,FMCG
+MUM-C-015,Worli Sea Face,Mumbai City,Arterial Road,Static,40,20,1600000,550000,0.34375,-0.09183673469387754,Active,2024-12-10,0,No Apparent Risk,CL04,ICICI Bank,Finance
+NAV-T-016,Vashi Station Complex,Navi Mumbai,Transit Hub,Digital,50,25,1700000,620000,0.36470588235294116,-0.0680272108843537,Active,2025-06-11,0,No Apparent Risk,,,
+MUM-E-019,Ghatkopar,400086,East Suburbs,Static,40,20,1300000,300000,0.23076923076923078,-0.20408163265306123,Active,2024-05-14,0,No Apparent Risk,CL10,Amazon Prime,Entertainment
+MUM-C-020,Sion Circle,Mumbai City,Arterial Road,Static,30,15,1450000,350000,0.2413793103448276,-0.22448979591836735,Pending,,1,Low Risk,,,
+MUM-W-021,Bandra Kurla Complex (BKC),West Suburbs,Commercial Hub,Digital,60,30,2000000,900000,0.45,0.07482993197278909,Active,2024-11-20,0,No Apparent Risk,CL04,ICICI Bank,Finance
+MUM-C-022,Dadar TT Circle,Mumbai City,Arterial Road,Digital,40,20,1600000,580000,0.3625,-0.061224489795918324,Active,2025-03-03,0,No Apparent Risk,CL03,Samsung,Electronics
+MUM-W-024,Mumbai Airport T2,West Suburbs,Transit Hub,Digital,80,40,2400000,1200000,0.5,0.19047619047619047,Active,2025-06-01,0,No Apparent Risk,CL11,Emirates,Travel
+MUM-C-025,Mahim Causeway,Mumbai City,Arterial Road,Static,40,20,1700000,480000,0.2823529411764706,-0.21088435374149656,Expired,2022-08-10,4,High Risk,,,
+MUM-W-027,Borivali Station West,West Suburbs,Transit Hub,Static,40,20,1650000,360000,0.21818181818181817,-0.30952380952380953,Active,2024-06-25,0,No Apparent Risk,CL02,Coca-Cola,FMCG
+MUM-S-028,Nariman Point,South Mumbai,Commercial Hub,Digital,50,25,1800000,780000,0.43333333333333335,0.04761904761904756,Active,2024-10-10,0,No Apparent Risk,CL13,Taj Hotels,Hospitality
+MUM-W-031,Juhu Beach,West Suburbs,Leisure,Static,40,20,1250000,380000,0.304,-0.09863945578231295,Active,2023-05-20,1,Low Risk,CL08,Starbucks,F&B
+MUM-S-032,Churchgate Station,South Mumbai,Transit Hub,Digital,40,20,1900000,650000,0.34210526315789475,-0.13265306122448978,Active,2025-04-22,0,No Apparent Risk,CL10,Amazon Prime,Entertainment
+MUM-C-033,Haji Ali Junction,Mumbai City,Arterial Road,Digital,50,25,2100000,760000,0.3619047619047619,-0.11564625850340138,Active,2025-07-07,0,No Apparent Risk,CL14,Rolex,Luxury Goods
+MUM-S-036,Peddar Road,South Mumbai,Residential Area,Static,30,15,900000,450000,0.5,0.13945578231292519,Active,2025-02-01,0,No Apparent Risk,CL14,Rolex,Luxury Goods
+MUM-E-038,Mulund Check Naka,East Suburbs,Highway,Static,70,35,2400000,800000,0.3333333333333333,-0.217687074829932,Active,2025-05-05,0,No Apparent Risk,CL12,MG Hector,Automotive
+MUM-W-043,Dahisar Check Naka,West Suburbs,Highway,Static,80,40,2700000,920000,0.34074074074074073,-0.23809523809523803,Active,2024-12-22,0,No Apparent Risk,CL07,BMW India,Automotive
+MUM-S-047,Cuffe Parade,South Mumbai,Residential Area,Digital,30,15,950000,550000,0.5789473684210527,0.21768707482993196,Active,2025-04-01,2,Low Risk,CL13,Taj Hotels,Hospitality
+NAV-C-050,Belapur CBD,Navi Mumbai,Commercial Hub,Digital,60,30,1600000,680000,0.425,0.04081632653061229,Active,2025-08-20,0,No Apparent Risk,CL04,ICICI Bank,Finance
+MUM-C-051,Bandra-Worli Sea Link Exit,Mumbai City,Highway,Digital,60,30,2450000,840000,0.34285714285714286,-0.20068027210884354,Active,2025-01-12,0,No Apparent Risk,CL07,BMW India,Automotive
+MUM-W-053,Juhu Tara Road,West Suburbs,Arterial Road,Digital,40,20,1450000,590000,0.4068965517241379,0.02040816326530609,Active,2025-08-01,0,No Apparent Risk,CL08,Starbucks,F&B
+MUM-S-054,Marine Lines,South Mumbai,Residential Area,Static,30,15,1900000,700000,0.3684210526315789,-0.08163265306122447,Active,2025-02-18,0,No Apparent Risk,CL14,Rolex,Luxury Goods
+MUM-E-056,Powai Lake Promenade,East Suburbs,Leisure,Digital,30,15,1100000,520000,0.4727272727272727,0.11564625850340138,Active,2025-05-25,0,No Apparent Risk,CL09,Zomato,Tech
+MUM-S-058,CSMT Subway,South Mumbai,Transit Hub,Digital,30,15,2100000,750000,0.35714285714285715,-0.12585034013605434,Active,2025-04-16,0,No Apparent Risk,CL06,Myntra,E-commerce
+MUM-W-059,Bandra Reclamation,West Suburbs,Residential Area,Static,40,20,1550000,470000,0.3032258064516129,-0.14965986394557823,Active,2024-09-20,0,No Apparent Risk,CL05,Lodha Group,Real Estate
+MUM-E-061,Chembur Camp,East Suburbs,Residential Area,Static,30,15,1000000,260000,0.26,-0.10204081632653061,Active,2023-02-14,1,Low Risk,,,
+MUM-S-062,Opera House,South Mumbai,Commercial Hub,Digital,40,20,1400000,600000,0.42857142857142855,0.054421768707483,Active,2025-08-10,0,No Apparent Risk,CL03,Samsung,Electronics
+MUM-C-072,Dadar Flower Market,Mumbai City,Commercial Hub,Static,30,15,1700000,380000,0.2235294117647059,-0.3129251700680272,Active,2024-09-12,0,No Apparent Risk,CL16,Cadbury,FMCG
+MUM-W-073,Andheri Flyover,West Suburbs,Highway,Digital,70,35,2400000,890000,0.37083333333333335,-0.12585034013605445,Active,2025-04-09,0,No Apparent Risk,CL03,Samsung,Electronics
+MUM-W-074,Mumbai Airport T1,West Suburbs,Transit Hub,Static,60,30,2000000,650000,0.325,-0.18027210884353745,Active,2025-06-05,0,No Apparent Risk,CL11,Emirates,Travel
+NAV-C-076,Panvel City,Navi Mumbai,Commercial Hub,Static,40,20,1400000,400000,0.2857142857142857,-0.1496598639455782,Active,2025-07-01,0,No Apparent Risk,CL05,Lodha Group,Real Estate
+MUM-W-079,Kalanagar Flyover,West Suburbs,Highway,Static,50,25,1900000,550000,0.2894736842105263,-0.2346938775510204,Active,2025-02-08,0,No Apparent Risk,CL06,Myntra,E-commerce
+PAL-T-080,Virar Station,Palghar,Transit Hub,Static,40,20,1450000,350000,0.2413793103448276,-0.22448979591836735,Expired,2022-01-30,4,High Risk,,,
+MUM-C-083,Haji Ali Dargah Road,Mumbai City,Leisure,Static,30,15,2000000,600000,0.3,-0.23129251700680276,Active,2025-05-11,0,No Apparent Risk,CL16,Cadbury,FMCG
+MUM-E-084,Kurla Station,East Suburbs,Transit Hub,Digital,50,25,1750000,630000,0.36,-0.08163265306122447,Active,2025-07-10,0,No Apparent Risk,CL03,Samsung,Electronics
+NAV-A-091,Airoli Circle,Navi Mumbai,Arterial Road,Static,50,25,1350000,450000,0.3333333333333333,-0.07482993197278912,Active,2022-09-01,1,Low Risk,,,
+MUM-C-092,Byculla Zoo,Mumbai City,Leisure,Static,40,20,1100000,280000,0.2545454545454545,-0.12925170068027209,Active,2025-07-28,0,No Apparent Risk,CL16,Cadbury,FMCG
+MUM-W-094,Khar Subway,West Suburbs,Transit Hub,Static,30,15,1250000,320000,0.256,-0.1598639455782313,Active,2024-04-11,0,No Apparent Risk,CL06,Myntra,E-commerce
+MUM-W-095,Sakinaka Metro Station,West Suburbs,Transit Hub,Digital,50,25,1800000,670000,0.37222222222222223,-0.06462585034013607,Active,2025-07-19,0,No Apparent Risk,CL11,Emirates,Travel
+MUM-E-098,Bhandup Pumping Station,East Suburbs,Highway,Static,70,35,2100000,700000,0.3333333333333333,-0.1768707482993197,Active,2024-10-01,0,No Apparent Risk,CL12,MG Hector,Automotive
+MUM-W-099,Kalina University,West Suburbs,Leisure,Static,40,20,1200000,350000,0.2916666666666667,-0.10544217687074828,Active,2025-05-19,0,No Apparent Risk,CL09,Zomato,Tech
+NAV-T-100,Belapur Station,Navi Mumbai,Transit Hub,Digital,50,25,1550000,600000,0.3870967741935484,-0.017006802721088454,Active,2025-08-12,0,No Apparent Risk,CL04,ICICI Bank,Finance
+MUM-W-102,Versova Beach,West Suburbs,Leisure,Digital,40,20,1000000,450000,0.45,0.09183673469387757,Active,2024-01-10,0,No Apparent Risk,CL19,Pepsi,FMCG
+THA-C-105,Thane Station Road,Thane,Commercial Hub,Digital,50,25,1600000,580000,0.3625,-0.061224489795918324,Pending,,1,Low Risk,,,
+MUM-S-111,Mumbai Central Station,South Mumbai,Transit Hub,Digital,60,30,2100000,780000,0.37142857142857144,-0.09523809523809523,Active,2025-04-02,0,No Apparent Risk,CL18,Air India,Travel
+MUM-S-115,Breach Candy,South Mumbai,Residential Area,Static,30,15,1100000,550000,0.5,0.14625850340136054,Active,2025-08-16,0,No Apparent Risk,CL14,Rolex,Luxury Goods
+MUM-C-118,Elphinstone Bridge,Mumbai City,Arterial Road,Static,40,20,1850000,520000,0.2810810810810811,-0.24149659863945583,Active,2025-01-01,0,No Apparent Risk,CL09,Zomato,Tech
+MUM-W-119,Gorai Beach Road,West Suburbs,Leisure,Static,30,15,700000,220000,0.3142857142857143,0.0,Pending,,1,Low Risk,CL02,Coca-Cola,FMCG
+MUM-S-122,Kemps Corner,South Mumbai,Commercial Hub,Static,40,20,1600000,600000,0.375,-0.040816326530612235,Active,2025-07-22,0,No Apparent Risk,CL15,Tanishq,Jewellery
+MUM-W-123,Malad Mindspace,West Suburbs,Commercial Hub,Digital,50,25,1500000,650000,0.43333333333333335,0.05782312925170069,Active,2025-01-18,0,No Apparent Risk,,,
+MUM-C-124,Worli Dairy,Mumbai City,Arterial Road,Static,40,20,1750000,540000,0.30857142857142855,-0.17346938775510207,Active,2025-08-19,0,No Apparent Risk,CL16,Cadbury,FMCG
+MUM-S-128,Gateway of India,South Mumbai,Leisure,Digital,40,20,1800000,900000,0.5,0.17006802721088432,Active,2024-11-12,0,No Apparent Risk,CL13,Taj Hotels,Hospitality
+MUM-W-130,Borivali National Park Entrance,West Suburbs,Leisure,Static,40,20,1100000,320000,0.2909090909090909,-0.08843537414965985,Active,2024-02-15,0,No Apparent Risk,CL10,Amazon Prime,Entertainment
+MUM-C-131,Lalbaug Flyover,Mumbai City,Highway,Digital,50,25,2000000,720000,0.36,-0.108843537414966,Active,2025-08-04,0,No Apparent Risk,CL03,Samsung,Electronics
+MUM-S-134,Charni Road Station,South Mumbai,Transit Hub,Static,40,20,1700000,420000,0.24705882352941178,-0.27210884353741494,Active,2025-03-20,0,No Apparent Risk,,,
+MUM-E-138,Anushakti Nagar,East Suburbs,Residential Area,Static,30,15,850000,260000,0.3058823529411765,-0.030612244897959183,Active,2024-06-01,0,No Apparent Risk,CL17,HDFC Bank,Finance
+MUM-S-139,Kalbadevi Road,South Mumbai,Commercial Hub,Static,30,15,1500000,390000,0.26,-0.2074829931972789,Pending,,1,Low Risk,,,
+MUM-W-143,Dahisar River Bridge,West Suburbs,Arterial Road,Static,40,20,1400000,360000,0.2571428571428571,-0.19047619047619047,Active,2024-10-05,0,No Apparent Risk,,,
+MUM-S-144,Bhuleshwar Market,South Mumbai,Commercial Hub,Static,30,15,1600000,410000,0.25625,-0.2346938775510204,Active,2025-03-11,0,No Apparent Risk,CL02,Coca-Cola,FMCG
+MUM-C-147,Antop Hill,Mumbai City,Residential Area,Static,30,15,900000,270000,0.3,-0.044217687074829926,Active,2025-01-22,0,No Apparent Risk,,,
+MUM-S-149,Malabar Hill,South Mumbai,Residential Area,Static,30,15,1200000,600000,0.5,0.14965986394557823,Active,2025-06-02,0,No Apparent Risk,CL14,Rolex,Luxury Goods
+MUM-W-152,Film City Main Gate,West Suburbs,Leisure,Digital,60,30,1300000,650000,0.5,0.15306122448979592,Active,2024-11-28,0,No Apparent Risk,CL01,Netflix India,Entertainment
+MUM-S-154,Crawford Market,South Mumbai,Commercial Hub,Static,40,20,1800000,480000,0.26666666666666666,-0.2585034013605442,Active,2025-05-14,0,No Apparent Risk,CL19,Pepsi,FMCG
+MUM-S-159,Zaveri Bazaar,South Mumbai,Commercial Hub,Static,30,15,1700000,450000,0.2647058823529412,-0.24149659863945575,Active,2025-04-08,0,No Apparent Risk,CL15,Tanishq,Jewellery
+MUM-S-165,Ballard Estate,South Mumbai,Commercial Hub,Digital,40,20,1300000,600000,0.46153846153846156,0.10204081632653061,Expired,2022-02-05,4,High Risk,CL13,Taj Hotels,Hospitality
+MUM-S-171,Flora Fountain,South Mumbai,Leisure,Static,40,20,1700000,650000,0.38235294117647056,-0.037414965986394544,Active,2025-08-26,0,No Apparent Risk,CL18,Air India,Travel
+MUM-C-174,Cotton Green Station,Mumbai City,Transit Hub,Static,30,15,1000000,280000,0.28,-0.08163265306122448,Active,2024-06-22,0,No Apparent Risk,CL02,Coca-Cola,FMCG
+MUM-W-185,Goregaon Sports Club,West Suburbs,Leisure,Static,30,15,800000,260000,0.325,-0.006802721088435375,Active,2024-06-11,0,No Apparent Risk,CL19,Pepsi,FMCG
+MUM-C-186,Sion Hospital,Mumbai City,Arterial Road,Static,40,20,1500000,400000,0.26666666666666666,-0.19727891156462582,Active,2025-07-11,0,No Apparent Risk,CL17,HDFC Bank,Finance
+MUM-S-187,Sandhurst Road Station,South Mumbai,Transit Hub,Digital,40,20,1400000,550000,0.39285714285714285,0.003401360544217691,Pending,,1,Low Risk,,,
+NAV-I-189,Taloja MIDC,Navi Mumbai,Industrial,Static,50,25,900000,280000,0.3111111111111111,-0.03401360544217687,Active,2024-02-10,0,No Apparent Risk,CL21,Blue Dart,Logistics
+MUM-E-190,Chembur Naka,East Suburbs,Commercial Hub,Digital,50,25,1600000,600000,0.375,-0.040816326530612235,Active,2025-07-17,0,No Apparent Risk,CL15,Tanishq,Jewellery
+MUM-C-192,Worli Naka,Mumbai City,Arterial Road,Static,40,20,1800000,560000,0.3111111111111111,-0.17687074829931976,Active,2025-06-04,0,No Apparent Risk,CL16,Cadbury,FMCG
+MUM-S-193,Bhendi Bazaar,South Mumbai,Commercial Hub,Digital,40,20,1600000,580000,0.3625,-0.061224489795918324,Active,2025-04-12,0,No Apparent Risk,CL02,Coca-Cola,FMCG
+MUM-E-196,Airoli Station,Navi Mumbai,Transit Hub,Digital,50,25,1300000,530000,0.4076923076923077,0.030612244897959218,Active,2025-08-24,0,No Apparent Risk,CL09,Zomato,Tech
+MUM-S-199,Hughes Road,South Mumbai,Arterial Road,Digital,40,20,1700000,680000,0.4,-0.006802721088435326,Active,2025-08-07,0,No Apparent Risk,CL14,Rolex,Luxury Goods
+MUM-W-201,Bandra-Worli Sea Link,West Suburbs,Highway,Static,60,30,2400000,800000,0.3333333333333333,-0.217687074829932,Active,2025-06-10,0,No Apparent Risk,CL01,Netflix India,Entertainment
+MUM-C-202,Dadar Station West,Mumbai City,Transit Hub,Digital,40,20,1900000,450000,0.23684210526315788,-0.33673469387755095,Active,2025-07-15,0,No Apparent Risk,CL02,Coca-Cola,FMCG
+MUM-W-203,Juhu Circle,West Suburbs,Commercial Hub,Static,50,25,1400000,550000,0.39285714285714285,0.003401360544217691,Active,2025-02-22,0,No Apparent Risk,CL03,Samsung,Electronics
+MUM-S-204,Marine Drive,South Mumbai,Arterial Road,Digital,30,15,2100000,800000,0.38095238095238093,-0.07482993197278909,Active,2025-01-08,0,No Apparent Risk,CL04,ICICI Bank,Finance
+MUM-W-205,Andheri East Station,West Suburbs,Transit Hub,Digital,40,20,1850000,420000,0.22702702702702704,-0.34353741496598644,Expired,2022-09-01,4,High Risk,,,
+MUM-E-206,Powai,400076,East Suburbs,Static,40,20,1100000,500000,0.45454545454545453,0.09523809523809523,Active,2025-04-28,0,No Apparent Risk,CL05,Lodha Group,Real Estate
+MUM-W-207,Goregaon Film City Road,West Suburbs,Arterial Road,Digital,50,25,1000000,300000,0.3,-0.061224489795918366,Active,2024-08-15,0,No Apparent Risk,CL01,Netflix India,Entertainment
+MUM-S-208,CST Station,South Mumbai,Transit Hub,Static,60,30,2100000,750000,0.35714285714285715,-0.12585034013605434,Active,2025-03-25,0,No Apparent Risk,CL06,Myntra,E-commerce
+MUM-W-209,Bandra Linking Road,West Suburbs,Commercial Hub,Digital,30,15,1700000,500000,0.29411764705882354,-0.19047619047619047,Active,2024-10-11,0,No Apparent Risk,CL06,Myntra,E-commerce
+MUM-E-211,Chembur,400071,East Suburbs,Digital,40,20,1200000,320000,0.26666666666666666,-0.13605442176870747,Pending,,1,Low Risk,,,
+MUM-S-212,Colaba Causeway,South Mumbai,Commercial Hub,Static,30,15,1200000,450000,0.375,-0.003401360544217663,Active,2025-08-28,0,No Apparent Risk,CL08,Starbucks,F&B
+MUM-W-213,Malad,400064,West Suburbs,Digital,50,25,1500000,370000,0.24666666666666667,-0.227891156462585,Active,2024-02-01,0,No Apparent Risk,CL02,Coca-Cola,FMCG
+MUM-C-215,Worli Sea Face,Mumbai City,Arterial Road,Digital,40,20,1700000,600000,0.35294117647058826,-0.08843537414965985,Active,2024-12-18,0,No Apparent Risk,CL04,ICICI Bank,Finance
+NAV-T-216,Vashi Station Complex,Navi Mumbai,Transit Hub,Static,50,25,1600000,580000,0.3625,-0.061224489795918324,Active,2025-06-25,0,No Apparent Risk,,,
+MUM-E-219,Ghatkopar,400086,East Suburbs,Digital,40,20,1400000,350000,0.25,-0.2006802721088435,Active,2024-05-28,0,No Apparent Risk,CL10,Amazon Prime,Entertainment
+MUM-C-220,Sion Circle,Mumbai City,Arterial Road,Digital,30,15,1550000,400000,0.25806451612903225,-0.22108843537414966,Active,2025-04-01,0,No Apparent Risk,,,
+MUM-W-221,Bandra Kurla Complex (BKC),West Suburbs,Commercial Hub,Static,60,30,1900000,850000,0.4473684210526316,0.07142857142857151,Expired,2022-11-28,4,High Risk,CL04,ICICI Bank,Finance
+MUM-C-222,Dadar TT Circle,Mumbai City,Arterial Road,Static,40,20,1500000,520000,0.3466666666666667,-0.07482993197278909,Active,2025-03-18,0,No Apparent Risk,CL03,Samsung,Electronics
+MUM-W-224,Mumbai Airport T2,West Suburbs,Transit Hub,Static,80,40,2300000,1100000,0.4782608695652174,0.13605442176870752,Active,2025-06-15,0,No Apparent Risk,CL11,Emirates,Travel
+MUM-C-225,Mahim Causeway,Mumbai City,Arterial Road,Digital,40,20,1800000,520000,0.28888888888888886,-0.217687074829932,Active,2023-07-20,1,Low Risk,,,
+MUM-W-227,Borivali Station West,West Suburbs,Transit Hub,Digital,40,20,1750000,400000,0.22857142857142856,-0.3163265306122449,Active,2024-07-08,0,No Apparent Risk,CL02,Coca-Cola,FMCG
+MUM-S-228,Nariman Point,South Mumbai,Commercial Hub,Static,50,25,1700000,720000,0.4235294117647059,0.03401360544217691,Active,2024-10-22,0,No Apparent Risk,CL13,Taj Hotels,Hospitality
+MUM-W-231,Juhu Beach,West Suburbs,Leisure,Digital,40,20,1350000,420000,0.3111111111111111,-0.1054421768707483,Active,2023-06-01,1,Low Risk,CL08,Starbucks,F&B
+MUM-S-232,Churchgate Station,South Mumbai,Transit Hub,Static,40,20,1800000,600000,0.3333333333333333,-0.13605442176870752,Active,2025-05-05,0,No Apparent Risk,CL10,Amazon Prime,Entertainment
+MUM-C-233,Haji Ali Junction,Mumbai City,Arterial Road,Static,50,25,2000000,700000,0.35,-0.12925170068027214,Active,2025-07-20,0,No Apparent Risk,CL14,Rolex,Luxury Goods
+MUM-S-236,Peddar Road,South Mumbai,Residential Area,Digital,30,15,1000000,500000,0.5,0.14285714285714285,Active,2025-02-15,0,No Apparent Risk,CL14,Rolex,Luxury Goods
+MUM-E-238,Mulund Check Naka,East Suburbs,Highway,Digital,70,35,2500000,850000,0.34,-0.2142857142857142,Active,2025-05-20,0,No Apparent Risk,CL12,MG Hector,Automotive
+MUM-W-243,Dahisar Check Naka,West Suburbs,Highway,Digital,80,40,2800000,970000,0.3464285714285714,-0.23469387755102045,Active,2025-01-05,0,No Apparent Risk,CL07,BMW India,Automotive
+MUM-S-247,Cuffe Parade,South Mumbai,Residential Area,Static,30,15,850000,500000,0.5882352941176471,0.21428571428571427,Active,2025-04-15,2,Low Risk,CL13,Taj Hotels,Hospitality
+NAV-C-250,Belapur CBD,Navi Mumbai,Commercial Hub,Static,60,30,1500000,620000,0.41333333333333333,0.027210884353741527,Active,2025-08-30,0,No Apparent Risk,CL04,ICICI Bank,Finance
+MUM-C-251,Bandra-Worli Sea Link Exit,Mumbai City,Highway,Static,60,30,2350000,780000,0.33191489361702126,-0.2142857142857143,Active,2025-01-25,0,No Apparent Risk,CL07,BMW India,Automotive
+MUM-W-253,Juhu Tara Road,West Suburbs,Arterial Road,Static,40,20,1350000,530000,0.3925925925925926,0.006802721088435382,Active,2025-08-10,0,No Apparent Risk,CL08,Starbucks,F&B
+MUM-S-254,Marine Lines,South Mumbai,Residential Area,Digital,30,15,2000000,750000,0.375,-0.07823129251700678,Active,2025-02-28,0,No Apparent Risk,CL14,Rolex,Luxury Goods
+MUM-E-256,Powai Lake Promenade,East Suburbs,Leisure,Static,30,15,1000000,480000,0.48,0.12244897959183676,Active,2025-06-05,0,No Apparent Risk,CL09,Zomato,Tech
+MUM-S-258,CSMT Subway,South Mumbai,Transit Hub,Static,30,15,2000000,700000,0.35,-0.12925170068027214,Active,2025-04-30,0,No Apparent Risk,CL06,Myntra,E-commerce
+MUM-W-259,Bandra Reclamation,West Suburbs,Residential Area,Digital,40,20,1650000,520000,0.3151515151515151,-0.14625850340136054,Active,2024-10-01,0,No Apparent Risk,CL05,Lodha Group,Real Estate
+MUM-E-261,Chembur Camp,East Suburbs,Residential Area,Digital,30,15,1100000,300000,0.2727272727272727,-0.10884353741496598,Active,2023-03-01,1,Low Risk,,,
+MUM-S-262,Opera House,South Mumbai,Commercial Hub,Static,40,20,1300000,550000,0.4230769230769231,0.05102040816326531,Active,2025-08-20,0,No Apparent Risk,CL03,Samsung,Electronics
+MUM-C-272,Dadar Flower Market,Mumbai City,Commercial Hub,Digital,30,15,1800000,420000,0.23333333333333334,-0.3197278911564626,Active,2024-09-25,0,No Apparent Risk,CL16,Cadbury,FMCG
+MUM-W-273,Andheri Flyover,West Suburbs,Highway,Static,70,35,2300000,830000,0.36086956521739133,-0.1394557823129251,Active,2025-04-22,0,No Apparent Risk,CL03,Samsung,Electronics
+MUM-W-274,Mumbai Airport T1,West Suburbs,Transit Hub,Digital,60,30,2100000,700000,0.3333333333333333,-0.1768707482993197,Active,2025-06-20,0,No Apparent Risk,CL11,Emirates,Travel
+NAV-C-276,Panvel City,Navi Mumbai,Commercial Hub,Digital,40,20,1500000,450000,0.3,-0.1462585034013605,Active,2025-07-15,0,No Apparent Risk,CL05,Lodha Group,Real Estate
+MUM-W-279,Kalanagar Flyover,West Suburbs,Highway,Digital,50,25,2000000,600000,0.3,-0.23129251700680276,Active,2025-02-20,0,No Apparent Risk,CL06,Myntra,E-commerce
+PAL-T-280,Virar Station,Palghar,Transit Hub,Digital,40,20,1550000,400000,0.25806451612903225,-0.22108843537414966,Expired,2022-02-15,4,High Risk,,,
+MUM-C-283,Haji Ali Dargah Road,Mumbai City,Leisure,Digital,30,15,2100000,650000,0.30952380952380953,-0.227891156462585,Active,2025-05-25,0,No Apparent Risk,CL16,Cadbury,FMCG
+MUM-E-284,Kurla Station,East Suburbs,Transit Hub,Static,50,25,1650000,580000,0.3515151515151515,-0.08503401360544216,Active,2025-07-22,0,No Apparent Risk,CL03,Samsung,Electronics
+NAV-A-291,Airoli Circle,Navi Mumbai,Arterial Road,Digital,50,25,1450000,500000,0.3448275862068966,-0.07142857142857145,Active,2022-10-01,1,Low Risk,,,
+MUM-C-292,Byculla Zoo,Mumbai City,Leisure,Digital,40,20,1200000,320000,0.26666666666666666,-0.13605442176870747,Active,2025-08-04,0,No Apparent Risk,CL16,Cadbury,FMCG
+MUM-W-294,Khar Subway,West Suburbs,Transit Hub,Digital,30,15,1350000,370000,0.2740740740740741,-0.1564625850340136,Active,2024-04-25,0,No Apparent Risk,CL06,Myntra,E-commerce
+MUM-W-295,Sakinaka Metro Station,West Suburbs,Transit Hub,Static,50,25,1700000,620000,0.36470588235294116,-0.0680272108843537,Active,2025-07-30,0,No Apparent Risk,CL11,Emirates,Travel
+MUM-E-298,Bhandup Pumping Station,East Suburbs,Highway,Digital,70,35,2200000,750000,0.3409090909090909,-0.173469387755102,Active,2024-10-15,0,No Apparent Risk,CL12,MG Hector,Automotive
+MUM-W-299,Kalina University,West Suburbs,Leisure,Digital,40,20,1300000,400000,0.3076923076923077,-0.10204081632653059,Active,2025-06-01,0,No Apparent Risk,CL09,Zomato,Tech
+NAV-T-300,Belapur Station,Navi Mumbai,Transit Hub,Static,50,25,1450000,550000,0.3793103448275862,-0.020408163265306145,Active,2025-08-22,0,No Apparent Risk,CL04,ICICI Bank,Finance
+MUM-W-302,Versova Beach,West Suburbs,Leisure,Static,40,20,900000,400000,0.4444444444444444,0.08843537414965988,Active,2024-01-25,0,No Apparent Risk,CL19,Pepsi,FMCG
+THA-C-305,Thane Station Road,Thane,Commercial Hub,Static,50,25,1500000,520000,0.3466666666666667,-0.07482993197278909,Pending,,1,Low Risk,,,
+MUM-S-311,Mumbai Central Station,South Mumbai,Transit Hub,Static,60,30,2000000,720000,0.36,-0.108843537414966,Active,2025-04-16,0,No Apparent Risk,CL18,Air India,Travel
+MUM-S-315,Breach Candy,South Mumbai,Residential Area,Digital,30,15,1200000,600000,0.5,0.14965986394557823,Active,2025-08-30,0,No Apparent Risk,CL14,Rolex,Luxury Goods
+MUM-C-318,Elphinstone Bridge,Mumbai City,Arterial Road,Digital,40,20,1950000,580000,0.29743589743589743,-0.227891156462585,Active,2025-01-15,0,No Apparent Risk,CL09,Zomato,Tech
+MUM-W-319,Gorai Beach Road,West Suburbs,Leisure,Digital,30,15,800000,270000,0.3375,0.003401360544217691,Pending,,1,Low Risk,CL02,Coca-Cola,FMCG
+MUM-S-322,Kemps Corner,South Mumbai,Commercial Hub,Digital,40,20,1700000,650000,0.38235294117647056,-0.037414965986394544,Active,2025-08-02,0,No Apparent Risk,CL15,Tanishq,Jewellery
+MUM-W-323,Malad Mindspace,West Suburbs,Commercial Hub,Static,50,25,1400000,600000,0.42857142857142855,0.054421768707483,Active,2025-01-30,0,No Apparent Risk,,,
+MUM-C-324,Worli Dairy,Mumbai City,Arterial Road,Digital,40,20,1850000,590000,0.31891891891891894,-0.17006802721088443,Active,2025-08-31,0,No Apparent Risk,CL16,Cadbury,FMCG
+MUM-S-328,Gateway of India,South Mumbai,Leisure,Static,40,20,1700000,850000,0.5,0.16666666666666674,Active,2024-11-25,0,No Apparent Risk,CL13,Taj Hotels,Hospitality
+MUM-W-330,Borivali National Park Entrance,West Suburbs,Leisure,Digital,40,20,1200000,370000,0.30833333333333335,-0.08503401360544216,Active,2024-03-01,0,No Apparent Risk,CL10,Amazon Prime,Entertainment
+MUM-C-331,Lalbaug Flyover,Mumbai City,Highway,Static,50,25,1900000,680000,0.35789473684210527,-0.10204081632653056,Active,2025-08-16,0,No Apparent Risk,CL03,Samsung,Electronics
+MUM-S-334,Charni Road Station,South Mumbai,Transit Hub,Digital,40,20,1800000,470000,0.2611111111111111,-0.2687074829931973,Active,2025-04-02,0,No Apparent Risk,,,
+MUM-E-338,Anushakti Nagar,East Suburbs,Residential Area,Digital,30,15,950000,300000,0.3157894736842105,-0.03741496598639456,Active,2024-06-15,0,No Apparent Risk,CL17,HDFC Bank,Finance
+MUM-S-339,Kalbadevi Road,South Mumbai,Commercial Hub,Digital,30,15,1600000,440000,0.275,-0.2040816326530612,Pending,,1,Low Risk,,,
+MUM-W-343,Dahisar River Bridge,West Suburbs,Arterial Road,Digital,40,20,1500000,400000,0.26666666666666666,-0.19727891156462582,Active,2024-10-18,0,No Apparent Risk,,,
+MUM-S-344,Bhuleshwar Market,South Mumbai,Commercial Hub,Digital,30,15,1700000,460000,0.27058823529411763,-0.2312925170068027,Active,2025-03-25,0,No Apparent Risk,CL02,Coca-Cola,FMCG
+MUM-C-347,Antop Hill,Mumbai City,Residential Area,Digital,30,15,1000000,320000,0.32,-0.040816326530612235,Active,2025-02-05,0,No Apparent Risk,,,
+MUM-S-349,Malabar Hill,South Mumbai,Residential Area,Digital,30,15,1300000,650000,0.5,0.15306122448979592,Active,2025-06-15,0,No Apparent Risk,CL14,Rolex,Luxury Goods
+MUM-W-352,Film City Main Gate,West Suburbs,Leisure,Static,60,30,1200000,600000,0.5,0.14965986394557823,Active,2024-12-10,0,No Apparent Risk,CL01,Netflix India,Entertainment
+MUM-S-354,Crawford Market,South Mumbai,Commercial Hub,Digital,40,20,1900000,520000,0.2736842105263158,-0.26530612244897955,Active,2025-05-28,0,No Apparent Risk,CL19,Pepsi,FMCG
+MUM-S-359,Zaveri Bazaar,South Mumbai,Commercial Hub,Digital,30,15,1800000,500000,0.2777777777777778,-0.23809523809523814,Active,2025-04-20,0,No Apparent Risk,CL15,Tanishq,Jewellery
+MUM-S-365,Ballard Estate,South Mumbai,Commercial Hub,Static,40,20,1200000,550000,0.4583333333333333,0.09863945578231292,Expired,2022-02-20,4,High Risk,CL13,Taj Hotels,Hospitality
+MUM-S-371,Flora Fountain,South Mumbai,Leisure,Digital,40,20,1800000,700000,0.3888888888888889,-0.03401360544217691,Active,2025-09-01,0,No Apparent Risk,CL18,Air India,Travel
+MUM-C-374,Cotton Green Station,Mumbai City,Transit Hub,Digital,30,15,1100000,320000,0.2909090909090909,-0.08843537414965985,Active,2024-07-05,0,No Apparent Risk,CL02,Coca-Cola,FMCG
+MUM-W-385,Goregaon Sports Club,West Suburbs,Leisure,Digital,30,15,900000,300000,0.3333333333333333,-0.01360544217687075,Active,2024-06-25,0,No Apparent Risk,CL19,Pepsi,FMCG
+MUM-C-386,Sion Hospital,Mumbai City,Arterial Road,Digital,40,20,1600000,450000,0.28125,-0.19387755102040813,Active,2025-07-25,0,No Apparent Risk,CL17,HDFC Bank,Finance
+MUM-S-387,Sandhurst Road Station,South Mumbai,Transit Hub,Static,40,20,1300000,500000,0.38461538461538464,0.0,Pending,,1,Low Risk,,,
+NAV-I-389,Taloja MIDC,Navi Mumbai,Industrial,Digital,50,25,1000000,320000,0.32,-0.040816326530612235,Active,2024-02-22,0,No Apparent Risk,CL21,Blue Dart,Logistics
+MUM-E-390,Chembur Naka,East Suburbs,Commercial Hub,Static,50,25,1500000,550000,0.36666666666666664,-0.044217687074829926,Active,2025-07-30,0,No Apparent Risk,CL15,Tanishq,Jewellery
+MUM-C-392,Worli Naka,Mumbai City,Arterial Road,Digital,40,20,1900000,600000,0.3157894736842105,-0.18367346938775508,Active,2025-06-18,0,No Apparent Risk,CL16,Cadbury,FMCG
+MUM-S-393,Bhendi Bazaar,South Mumbai,Commercial Hub,Static,40,20,1500000,520000,0.3466666666666667,-0.07482993197278909,Active,2025-04-25,0,No Apparent Risk,CL02,Coca-Cola,FMCG
+MUM-E-396,Airoli Station,Navi Mumbai,Transit Hub,Static,50,25,1200000,480000,0.4,0.027210884353741527,Active,2025-09-01,0,No Apparent Risk,CL09,Zomato,Tech
+MUM-S-399,Hughes Road,South Mumbai,Arterial Road,Static,40,20,1600000,620000,0.3875,-0.02040816326530609,Active,2025-08-19,0,No Apparent Risk,CL14,Rolex,Luxury Goods
+MUM-S-405,Chowpatty Beach,South Mumbai,Leisure,Digital,50,25,1900000,700000,0.3684210526315789,-0.08163265306122447,Active,2024-10-20,0,No Apparent Risk,CL19,Pepsi,FMCG
+MUM-C-408,Mahalaxmi Race Course,Mumbai City,Leisure,Static,50,25,1500000,600000,0.4,0.006802721088435382,Active,2025-08-11,0,No Apparent Risk,CL14,Rolex,Luxury Goods
+MUM-W-416,Santacruz Station East,West Suburbs,Transit Hub,Static,40,20,1600000,420000,0.2625,-0.22448979591836732,Active,2024-09-15,0,No Apparent Risk,,,
+MUM-S-417,Mumbadevi Temple,South Mumbai,Leisure,Digital,30,15,1500000,450000,0.3,-0.1462585034013605,Active,2025-06-11,0,No Apparent Risk,CL15,Tanishq,Jewellery
+MUM-S-422,Masjid Bunder Station,South Mumbai,Transit Hub,Static,40,20,1700000,450000,0.2647058823529412,-0.24149659863945575,Active,2025-06-08,0,No Apparent Risk,CL21,Blue Dart,Logistics
+MUM-S-427,Dockyard Road Station,South Mumbai,Transit Hub,Digital,40,20,1100000,350000,0.3181818181818182,-0.05782312925170066,Active,2025-05-16,0,No Apparent Risk,CL18,Air India,Travel
+NAV-T-433,Juinagar Station,Navi Mumbai,Transit Hub,Digital,40,20,1100000,380000,0.34545454545454546,-0.0272108843537415,Active,2025-08-16,0,No Apparent Risk,CL09,Zomato,Tech
+MUM-E-435,Kanjurmarg Station,East Suburbs,Transit Hub,Digital,40,20,1200000,390000,0.325,-0.06462585034013604,Active,2025-02-12,0,No Apparent Risk,,,
+MUM-S-437,Reay Road Station,South Mumbai,Transit Hub,Digital,30,15,1000000,330000,0.33,-0.030612244897959176,Active,2025-05-20,0,No Apparent Risk,CL21,Blue Dart,Logistics
+MUM-S-443,Marine Lines Station,South Mumbai,Transit Hub,Digital,40,20,1800000,550000,0.3055555555555556,-0.18707482993197283,Active,2025-07-29,0,No Apparent Risk,CL18,Air India,Travel
+MUM-W-451,Bandra-Worli Sea Link,West Suburbs,Highway,Digital,60,30,2500000,850000,0.34,-0.2142857142857142,Active,2024-11-15,0,No Apparent Risk,CL01,Netflix India,Entertainment
+MUM-C-452,Dadar Station West,Mumbai City,Transit Hub,Static,40,20,1800000,400000,0.2222222222222222,-0.34013605442176875,Active,2025-03-10,0,No Apparent Risk,CL02,Coca-Cola,FMCG
+MUM-W-453,Juhu Circle,West Suburbs,Commercial Hub,Digital,50,25,1500000,600000,0.4,0.006802721088435382,Active,2025-01-20,0,No Apparent Risk,CL03,Samsung,Electronics
+MUM-S-454,Marine Drive,South Mumbai,Arterial Road,Static,30,15,2000000,750000,0.375,-0.07823129251700678,Expired,2022-12-01,4,High Risk,CL04,ICICI Bank,Finance
+MUM-W-455,Andheri East Station,West Suburbs,Transit Hub,Static,40,20,1750000,380000,0.21714285714285714,-0.33673469387755106,Pending,2024-08-22,1,Low Risk,,,
+MUM-E-456,Powai,400076,East Suburbs,Digital,40,20,1200000,550000,0.4583333333333333,0.09863945578231292,Active,2025-05-18,0,No Apparent Risk,CL05,Lodha Group,Real Estate
+MUM-W-457,Goregaon Film City Road,West Suburbs,Arterial Road,Static,50,25,900000,250000,0.2777777777777778,-0.06462585034013604,Active,2024-07-30,0,No Apparent Risk,CL01,Netflix India,Entertainment
+MUM-S-458,CST Station,South Mumbai,Transit Hub,Digital,60,30,2200000,800000,0.36363636363636365,-0.12244897959183676,Active,2025-02-11,0,No Apparent Risk,CL06,Myntra,E-commerce
+MUM-W-459,Bandra Linking Road,West Suburbs,Commercial Hub,Static,30,15,1600000,450000,0.28125,-0.19387755102040813,Active,2024-09-05,0,No Apparent Risk,CL06,Myntra,E-commerce
+MUM-E-461,Chembur,400071,East Suburbs,Static,40,20,1100000,280000,0.2545454545454545,-0.12925170068027209,Active,2022-10-25,1,Low Risk,,,
+MUM-S-462,Colaba Causeway,South Mumbai,Commercial Hub,Digital,30,15,1300000,500000,0.38461538461538464,0.0,Active,2025-08-01,0,No Apparent Risk,CL08,Starbucks,F&B
+MUM-W-463,Malad,400064,West Suburbs,Static,50,25,1400000,320000,0.22857142857142856,-0.2312925170068027,Expired,2023-01-15,4,High Risk,CL02,Coca-Cola,FMCG
+MUM-C-465,Worli Sea Face,Mumbai City,Arterial Road,Static,40,20,1600000,550000,0.34375,-0.09183673469387754,Active,2024-12-10,0,No Apparent Risk,CL04,ICICI Bank,Finance
+NAV-T-466,Vashi Station Complex,Navi Mumbai,Transit Hub,Digital,50,25,1700000,620000,0.36470588235294116,-0.0680272108843537,Active,2025-06-11,0,No Apparent Risk,,,
+MUM-E-469,Ghatkopar,400086,East Suburbs,Static,40,20,1300000,300000,0.23076923076923078,-0.20408163265306123,Active,2024-05-14,0,No Apparent Risk,CL10,Amazon Prime,Entertainment
+MUM-C-470,Sion Circle,Mumbai City,Arterial Road,Static,30,15,1450000,350000,0.2413793103448276,-0.22448979591836735,Pending,,1,Low Risk,,,
+MUM-W-471,Bandra Kurla Complex (BKC),West Suburbs,Commercial Hub,Digital,60,30,2000000,900000,0.45,0.07482993197278909,Active,2024-11-20,0,No Apparent Risk,CL04,ICICI Bank,Finance
+MUM-C-472,Dadar TT Circle,Mumbai City,Arterial Road,Digital,40,20,1600000,580000,0.3625,-0.061224489795918324,Active,2025-03-03,0,No Apparent Risk,CL03,Samsung,Electronics
+MUM-W-474,Mumbai Airport T2,West Suburbs,Transit Hub,Digital,80,40,2400000,1200000,0.5,0.19047619047619047,Active,2025-06-01,0,No Apparent Risk,CL11,Emirates,Travel
+MUM-C-475,Mahim Causeway,Mumbai City,Arterial Road,Static,40,20,1700000,480000,0.2823529411764706,-0.21088435374149656,Expired,2022-08-10,4,High Risk,,,
+MUM-W-477,Borivali Station West,West Suburbs,Transit Hub,Static,40,20,1650000,360000,0.21818181818181817,-0.30952380952380953,Active,2024-06-25,0,No Apparent Risk,CL02,Coca-Cola,FMCG
+MUM-S-478,Nariman Point,South Mumbai,Commercial Hub,Digital,50,25,1800000,780000,0.43333333333333335,0.04761904761904756,Active,2024-10-10,0,No Apparent Risk,CL13,Taj Hotels,Hospitality
+MUM-W-481,Juhu Beach,West Suburbs,Leisure,Static,40,20,1250000,380000,0.304,-0.09863945578231295,Active,2023-05-20,1,Low Risk,CL08,Starbucks,F&B
+MUM-S-482,Churchgate Station,South Mumbai,Transit Hub,Digital,40,20,1900000,650000,0.34210526315789475,-0.13265306122448978,Active,2025-04-22,0,No Apparent Risk,CL10,Amazon Prime,Entertainment
+MUM-C-483,Haji Ali Junction,Mumbai City,Arterial Road,Digital,50,25,2100000,760000,0.3619047619047619,-0.11564625850340138,Active,2025-07-07,0,No Apparent Risk,CL14,Rolex,Luxury Goods
+MUM-S-486,Peddar Road,South Mumbai,Residential Area,Static,30,15,900000,450000,0.5,0.13945578231292519,Active,2025-02-01,0,No Apparent Risk,CL14,Rolex,Luxury Goods
+MUM-E-488,Mulund Check Naka,East Suburbs,Highway,Static,70,35,2400000,800000,0.3333333333333333,-0.217687074829932,Active,2025-05-05,0,No Apparent Risk,CL12,MG Hector,Automotive
+MUM-W-493,Dahisar Check Naka,West Suburbs,Highway,Static,80,40,2700000,920000,0.34074074074074073,-0.23809523809523803,Active,2024-12-22,0,No Apparent Risk,CL07,BMW India,Automotive
+MUM-S-497,Cuffe Parade,South Mumbai,Residential Area,Digital,30,15,950000,550000,0.5789473684210527,0.21768707482993196,Active,2025-04-01,2,Low Risk,CL13,Taj Hotels,Hospitality
+NAV-C-500,Belapur CBD,Navi Mumbai,Commercial Hub,Digital,60,30,1600000,680000,0.425,0.04081632653061229,Active,2025-08-20,0,No Apparent Risk,CL04,ICICI Bank,Finance

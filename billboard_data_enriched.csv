@@ -1,0 +1,502 @@
+Billboard_ID,Location_Name,Pincode,Borough,Location_Type,Billboard_Type,Illumination_Type,Width_ft,Height_ft,Monthly_Impressions_Est,Monthly_Rate_INR,Booking_Start_Date,Booking_End_Date,Client_ID,Client_Name,Client_Industry,Permit_Status,Last_Audit_Date
+MUM-W-001,Bandra-Worli Sea Link,400050,West Suburbs,Highway,Digital,LED,60,30,2500000,850000,2025-07-01,2025-12-31,CL01,Netflix India,Entertainment,Active,2024-11-15
+MUM-C-002,Dadar Station West,400028,Mumbai City,Transit Hub,Static,Backlit,40,20,1800000,400000,2025-08-15,2025-11-14,CL02,Coca-Cola,FMCG,Active,2025-03-10
+MUM-W-003,Juhu Circle,400049,West Suburbs,Commercial Hub,Digital,LED,50,25,1500000,600000,2025-09-01,2026-02-28,CL03,Samsung,Electronics,Active,2025-01-20
+MUM-S-004,Marine Drive,400020,South Mumbai,Arterial Road,Static,Frontlit,30,15,2000000,750000,2025-01-01,2025-12-31,CL04,ICICI Bank,Finance,Expired,2022-12-01
+MUM-W-005,Andheri East Station,400069,West Suburbs,Transit Hub,Static,Backlit,40,20,1750000,380000,,,,,,Pending,2024-08-22
+MUM-E-006,Powai, Hiranandani,400076,East Suburbs,Digital,LED,40,20,1200000,550000,2025-06-10,2025-09-09,CL05,Lodha Group,Real Estate,Active,2025-05-18
+MUM-W-007,Goregaon Film City Road,400065,West Suburbs,Arterial Road,Static,Frontlit,50,25,900000,250000,2025-09-01,2025-11-30,CL01,Netflix India,Entertainment,Active,2024-07-30
+MUM-S-008,CST Station,400001,South Mumbai,Transit Hub,Digital,LED,60,30,2200000,800000,2025-08-01,2026-01-31,CL06,Myntra,E-commerce,Active,2025-02-11
+MUM-W-009,Bandra Linking Road,400050,West Suburbs,Commercial Hub,Static,Backlit,30,15,1600000,450000,2025-07-20,2025-10-19,CL06,Myntra,E-commerce,Active,2024-09-05
+THA-H-010,Thane, Eastern Express Highway,400604,Thane,Highway,Static,Backlit,80,40,2800000,950000,2025-05-01,2025-10-31,CL07,BMW India,Automotive,Active,2025-04-12
+MUM-E-011,Chembur, Sion-Trombay Road,400071,East Suburbs,Static,Frontlit,40,20,1100000,280000,,,,,,Active,2022-10-25
+MUM-S-012,Colaba Causeway,400005,South Mumbai,Commercial Hub,Digital,LED,30,15,1300000,500000,2025-09-01,2025-11-30,CL08,Starbucks,F&B,Active,2025-08-01
+MUM-W-013,Malad, SV Road,400064,West Suburbs,Static,Frontlit,50,25,1400000,320000,2025-04-15,2025-10-14,CL02,Coca-Cola,FMCG,Expired,2023-01-15
+NAV-H-014,Navi Mumbai, Palm Beach Road,400705,Navi Mumbai,Highway,Digital,LED,60,30,1900000,650000,2025-08-20,2026-02-19,CL05,Lodha Group,Real Estate,Active,2025-07-20
+MUM-C-015,Worli Sea Face,400030,Mumbai City,Arterial Road,Static,Frontlit,40,20,1600000,550000,2025-03-01,2026-02-28,CL04,ICICI Bank,Finance,Active,2024-12-10
+NAV-T-016,Vashi Station Complex,400703,Navi Mumbai,Transit Hub,Digital,LED,50,25,1700000,620000,,,,,,Active,2025-06-11
+MUM-W-017,Kandivali, Western Express Highway,400101,West Suburbs,Highway,Static,Backlit,70,35,2600000,900000,2025-07-01,2025-09-30,CL07,BMW India,Automotive,Active,2025-01-05
+MUM-C-018,Lower Parel, Phoenix Mills,400013,Mumbai City,Commercial Hub,Digital,LED,40,20,1800000,700000,2025-08-05,2025-11-04,CL09,Zomato,Tech,Active,2025-02-28
+MUM-E-019,Ghatkopar, LBS Marg,400086,East Suburbs,Static,Backlit,40,20,1300000,300000,2025-09-01,2025-09-30,CL10,Amazon Prime,Entertainment,Active,2024-05-14
+MUM-C-020,Sion Circle,400022,Mumbai City,Arterial Road,Static,Frontlit,30,15,1450000,350000,,,,,,Pending,
+MUM-W-021,Bandra Kurla Complex (BKC),400051,West Suburbs,Commercial Hub,Digital,LED,60,30,2000000,900000,2025-01-01,2025-12-31,CL04,ICICI Bank,Finance,Active,2024-11-20
+MUM-C-022,Dadar TT Circle,400014,Mumbai City,Arterial Road,Digital,LED,40,20,1600000,580000,2025-06-15,2025-12-14,CL03,Samsung,Electronics,Active,2025-03-03
+MUM-W-023,Andheri, Link Road,400053,West Suburbs,Commercial Hub,Static,Backlit,50,25,1550000,420000,2025-05-10,2025-11-09,CL06,Myntra,E-commerce,Active,2024-08-18
+MUM-W-024,Mumbai Airport T2,400099,West Suburbs,Transit Hub,Digital,LED,80,40,2400000,1200000,2025-07-01,2026-06-30,CL11,Emirates,Travel,Active,2025-06-01
+MUM-C-025,Mahim Causeway,400016,Mumbai City,Arterial Road,Static,Frontlit,40,20,1700000,480000,,,,,,Expired,2022-08-10
+NAV-H-026,Panvel, Mumbai-Pune Expressway,410206,Navi Mumbai,Highway,Static,Backlit,100,50,3000000,1100000,2025-08-01,2026-01-31,CL12,MG Hector,Automotive,Active,2025-07-15
+MUM-W-027,Borivali Station West,400092,West Suburbs,Transit Hub,Static,Frontlit,40,20,1650000,360000,2025-09-01,2025-11-30,CL02,Coca-Cola,FMCG,Active,2024-06-25
+MUM-S-028,Nariman Point,400021,South Mumbai,Commercial Hub,Digital,LED,50,25,1800000,780000,2025-02-14,2025-10-13,CL13,Taj Hotels,Hospitality,Active,2024-10-10
+MUM-W-029,Kalanagar, Bandra East,400051,West Suburbs,Arterial Road,Static,Frontlit,30,15,1350000,400000,,,,,,Active,2025-01-14
+PAL-H-030,Virar, Highway Junction,401303,Palghar,Highway,Static,Backlit,60,30,1500000,450000,2025-09-01,2026-03-01,CL05,Lodha Group,Real Estate,Active,2024-11-01
+MUM-W-031,Juhu Beach,400049,West Suburbs,Leisure,Static,Frontlit,40,20,1250000,380000,2025-07-15,2025-10-14,CL08,Starbucks,F&B,Active,2023-05-20
+MUM-S-032,Churchgate Station,400020,South Mumbai,Transit Hub,Digital,LED,40,20,1900000,650000,2025-06-01,2025-11-30,CL10,Amazon Prime,Entertainment,Active,2025-04-22
+MUM-C-033,Haji Ali Junction,400026,Mumbai City,Arterial Road,Digital,LED,50,25,2100000,760000,2025-08-10,2026-02-09,CL14,Rolex,Luxury Goods,Active,2025-07-07
+MUM-E-034,Kurla, LBS Marg,400070,East Suburbs,Commercial Hub,Static,Backlit,60,30,1600000,430000,2025-03-01,2025-09-30,CL03,Samsung,Electronics,Expired,2022-04-19
+MUM-W-035,Vile Parle, SV Road,400056,West Suburbs,Arterial Road,Static,Frontlit,40,20,1400000,340000,,,,,,Active,2024-09-30
+MUM-S-036,Peddar Road,400026,South Mumbai,Residential Area,Static,Frontlit,30,15,900000,450000,2025-05-01,2025-10-31,CL14,Rolex,Luxury Goods,Active,2025-02-01
+THA-R-037,Thane, Ghodbunder Road,400607,Thane,Residential Area,Digital,LED,40,20,1100000,500000,2025-09-01,2026-08-31,CL05,Lodha Group,Real Estate,Active,2025-08-15
+MUM-E-038,Mulund Check Naka,400080,East Suburbs,Highway,Static,Backlit,70,35,2400000,800000,2025-07-20,2026-01-19,CL12,MG Hector,Automotive,Active,2025-05-05
+MUM-S-039,Fort, DN Road,400001,South Mumbai,Commercial Hub,Static,Frontlit,40,20,1500000,500000,2025-08-01,2025-10-31,CL04,ICICI Bank,Finance,Active,2024-10-18
+MUM-W-040,Santacruz, Western Express Highway,400055,West Suburbs,Highway,Static,Backlit,60,30,2300000,820000,2025-06-15,2025-12-14,CL01,Netflix India,Entertainment,Active,2025-01-28
+NAV-C-041,Airoli, Thane-Belapur Road,400708,Navi Mumbai,Commercial Hub,Digital,LED,50,25,1400000,580000,2025-09-01,2026-02-28,CL09,Zomato,Tech,Active,2025-08-11
+MUM-C-042,Byculla, Dr Ambedkar Road,400027,Mumbai City,Arterial Road,Static,Backlit,40,20,1200000,290000,,,,,,Pending,
+MUM-W-043,Dahisar Check Naka,400068,West Suburbs,Highway,Static,Backlit,80,40,2700000,920000,2025-04-01,2025-09-30,CL07,BMW India,Automotive,Active,2024-12-22
+MUM-W-044,Khar, 14th Road,400052,West Suburbs,Residential Area,Static,Frontlit,30,15,850000,300000,2025-08-15,2025-11-14,CL06,Myntra,E-commerce,Active,2023-03-20
+MUM-W-045,Sakinaka, Andheri-Kurla Road,400072,West Suburbs,Commercial Hub,Digital,LED,40,20,1650000,620000,2025-07-01,2025-12-31,CL11,Emirates,Travel,Active,2025-06-16
+MUM-S-046,Grant Road, Lamington Road,400007,South Mumbai,Commercial Hub,Static,Backlit,30,15,1150000,280000,2025-09-01,2025-11-30,CL03,Samsung,Electronics,Active,2024-07-01
+MUM-S-047,Cuffe Parade,400005,South Mumbai,Residential Area,Digital,LED,30,15,950000,550000,2025-05-10,2025-11-09,CL13,Taj Hotels,Hospitality,Active,2025-04-01
+MUM-E-048,Bhandup, LBS Marg,400078,East Suburbs,Arterial Road,Static,Frontlit,50,25,1250000,310000,,,,,,Expired,2022-07-11
+MUM-W-049,Kalina, BKC Connector,400098,West Suburbs,Arterial Road,Static,Backlit,40,20,1800000,500000,2025-08-20,2026-02-19,CL01,Netflix India,Entertainment,Active,2025-07-25
+NAV-C-050,Belapur CBD,400614,Navi Mumbai,Commercial Hub,Digital,LED,60,30,1600000,680000,2025-09-01,2026-08-31,CL04,ICICI Bank,Finance,Active,2025-08-20
+MUM-C-051,Bandra-Worli Sea Link Exit,400030,Mumbai City,Highway,Digital,LED,60,30,2450000,840000,2025-07-01,2025-12-31,CL07,BMW India,Automotive,Active,2025-01-12
+MUM-C-052,Dadar East, Tilak Bridge,400014,Mumbai City,Transit Hub,Static,Backlit,40,20,1780000,390000,2025-08-15,2025-11-14,CL02,Coca-Cola,FMCG,Active,2024-11-08
+MUM-W-053,Juhu Tara Road,400049,West Suburbs,Arterial Road,Digital,LED,40,20,1450000,590000,2025-09-01,2026-02-28,CL08,Starbucks,F&B,Active,2025-08-01
+MUM-S-054,Marine Lines,400002,South Mumbai,Residential Area,Static,Frontlit,30,15,1900000,700000,2025-01-01,2025-12-31,CL14,Rolex,Luxury Goods,Active,2025-02-18
+MUM-W-055,Andheri West, SV Road,400058,West Suburbs,Commercial Hub,Static,Backlit,50,25,1600000,410000,,,,,,Active,2024-06-15
+MUM-E-056,Powai Lake Promenade,400076,East Suburbs,Leisure,Digital,LED,30,15,1100000,520000,2025-06-10,2025-09-09,CL09,Zomato,Tech,Active,2025-05-25
+MUM-W-057,Goregaon, Link Road,400104,West Suburbs,Commercial Hub,Static,Frontlit,40,20,1300000,330000,2025-09-01,2025-11-30,CL10,Amazon Prime,Entertainment,Pending,
+MUM-S-058,CSMT Subway,400001,South Mumbai,Transit Hub,Digital,LED,30,15,2100000,750000,2025-08-01,2026-01-31,CL06,Myntra,E-commerce,Active,2025-04-16
+MUM-W-059,Bandra Reclamation,400050,West Suburbs,Residential Area,Static,Backlit,40,20,1550000,470000,2025-07-20,2025-10-19,CL05,Lodha Group,Real Estate,Active,2024-09-20
+THA-H-060,Thane, Teen Hath Naka,400602,Thane,Highway,Static,Backlit,70,35,2750000,930000,2025-05-01,2025-10-31,CL12,MG Hector,Automotive,Active,2025-03-30
+MUM-E-061,Chembur Camp,400074,East Suburbs,Residential Area,Static,Frontlit,30,15,1000000,260000,,,,,,Active,2023-02-14
+MUM-S-062,Opera House,400004,South Mumbai,Commercial Hub,Digital,LED,40,20,1400000,600000,2025-09-01,2025-11-30,CL03,Samsung,Electronics,Active,2025-08-10
+MUM-W-063,Malad, Inorbit Mall,400064,West Suburbs,Commercial Hub,Digital,LED,50,25,1700000,680000,2025-04-15,2025-10-14,CL01,Netflix India,Entertainment,Active,2025-01-25
+NAV-A-064,Navi Mumbai, Uran Road,400702,Navi Mumbai,Arterial Road,Static,Frontlit,60,30,1800000,600000,2025-08-20,2026-02-19,CL18,Air India,Travel,Active,2025-07-18
+MUM-C-065,Worli, Annie Besant Road,400018,Mumbai City,Commercial Hub,Static,Backlit,40,20,1650000,530000,2025-03-01,2026-02-28,CL04,ICICI Bank,Finance,Active,2024-12-01
+NAV-H-066,Vashi, Sion-Panvel Highway,400703,Navi Mumbai,Highway,Static,Backlit,80,40,2600000,880000,,,,,,Expired,2021-11-11
+MUM-W-067,Kandivali East, Akurli Road,400101,West Suburbs,Residential Area,Static,Frontlit,30,15,950000,280000,2025-07-01,2025-09-30,CL17,HDFC Bank,Finance,Active,2024-04-05
+MUM-C-068,Lower Parel, Senapati Bapat Marg,400013,Mumbai City,Commercial Hub,Digital,LED,60,30,1950000,850000,2025-08-05,2025-11-04,CL09,Zomato,Tech,Active,2025-06-20
+MUM-E-069,Ghatkopar, R City Mall,400086,East Suburbs,Leisure,Digital,LED,40,20,1500000,650000,2025-09-01,2025-09-30,CL10,Amazon Prime,Entertainment,Active,2025-08-08
+MUM-C-070,Sion, Eastern Express Highway,400022,Mumbai City,Highway,Static,Backlit,60,30,2250000,780000,2025-01-01,2025-12-31,CL12,MG Hector,Automotive,Active,2024-10-29
+MUM-W-071,BKC, Diamond Bourse,400051,West Suburbs,Commercial Hub,Static,Backlit,50,25,1900000,600000,,,,,,Active,2025-03-15
+MUM-C-072,Dadar Flower Market,400028,Mumbai City,Commercial Hub,Static,Frontlit,30,15,1700000,380000,2025-06-15,2025-12-14,CL16,Cadbury,FMCG,Active,2024-09-12
+MUM-W-073,Andheri Flyover,400069,West Suburbs,Highway,Digital,LED,70,35,2400000,890000,2025-05-10,2025-11-09,CL03,Samsung,Electronics,Active,2025-04-09
+MUM-W-074,Mumbai Airport T1,400099,West Suburbs,Transit Hub,Static,Backlit,60,30,2000000,650000,2025-07-01,2026-06-30,CL11,Emirates,Travel,Active,2025-06-05
+MUM-C-075,Mahim, Cadell Road,400016,Mumbai City,Residential Area,Static,Frontlit,40,20,1600000,460000,,,,,,Active,2023-04-14
+NAV-C-076,Panvel City,410206,Navi Mumbai,Commercial Hub,Static,Backlit,40,20,1400000,400000,2025-08-01,2026-01-31,CL05,Lodha Group,Real Estate,Active,2025-07-01
+MUM-W-077,Borivali, Shimpoli Road,400092,West Suburbs,Residential Area,Digital,LED,30,15,1050000,480000,2025-09-01,2025-11-30,CL15,Tanishq,Jewellery,Active,2025-08-18
+MUM-S-078,Nariman Point, NCPA,400021,South Mumbai,Leisure,Digital,LED,50,25,1750000,800000,2025-02-14,2025-10-13,CL13,Taj Hotels,Hospitality,Active,2024-11-25
+MUM-W-079,Kalanagar Flyover,400051,West Suburbs,Highway,Static,Backlit,50,25,1900000,550000,2025-07-20,2025-10-19,CL06,Myntra,E-commerce,Active,2025-02-08
+PAL-T-080,Virar Station,401303,Palghar,Transit Hub,Static,Frontlit,40,20,1450000,350000,,,,,,Expired,2022-01-30
+MUM-W-081,Juhu, Vaikunthlal Mehta Road,400049,West Suburbs,Arterial Road,Static,Frontlit,40,20,1350000,400000,2025-05-01,2025-10-31,CL08,Starbucks,F&B,Active,2024-03-21
+MUM-S-082,Churchgate, Veer Nariman Road,400020,South Mumbai,Commercial Hub,Digital,LED,40,20,1850000,680000,2025-09-01,2026-08-31,CL10,Amazon Prime,Entertainment,Active,2025-08-22
+MUM-C-083,Haji Ali Dargah Road,400034,Mumbai City,Leisure,Static,Backlit,30,15,2000000,600000,2025-07-20,2026-01-19,CL16,Cadbury,FMCG,Active,2025-05-11
+MUM-E-084,Kurla Station,400070,East Suburbs,Transit Hub,Digital,LED,50,25,1750000,630000,2025-08-01,2025-10-31,CL03,Samsung,Electronics,Active,2025-07-10
+MUM-W-085,Vile Parle East, Nehru Road,400057,West Suburbs,Commercial Hub,Static,Backlit,40,20,1300000,330000,,,,,,Pending,
+MUM-S-086,Peddar Road, Jaslok Hospital,400026,South Mumbai,Arterial Road,Digital,LED,30,15,1000000,580000,2025-06-15,2025-12-14,CL14,Rolex,Luxury Goods,Active,2025-04-18
+THA-H-087,Thane, Majiwada Junction,400601,Thane,Highway,Digital,LED,80,40,2850000,980000,2025-04-01,2025-09-30,CL07,BMW India,Automotive,Active,2025-01-20
+MUM-E-088,Mulund, LBS Marg,400080,East Suburbs,Commercial Hub,Static,Frontlit,50,25,1400000,350000,2025-08-15,2025-11-14,CL15,Tanishq,Jewellery,Active,2024-07-28
+MUM-S-089,Fort, Horniman Circle,400001,South Mumbai,Leisure,Static,Backlit,30,15,1450000,520000,2025-07-01,2025-12-31,CL04,ICICI Bank,Finance,Active,2025-06-09
+MUM-W-090,Santacruz, Juhu Garden,400054,West Suburbs,Residential Area,Digital,LED,40,20,1200000,530000,2025-05-10,2025-11-09,CL01,Netflix India,Entertainment,Active,2025-03-09
+NAV-A-091,Airoli Circle,400708,Navi Mumbai,Arterial Road,Static,Frontlit,50,25,1350000,450000,,,,,,Active,2022-09-01
+MUM-C-092,Byculla Zoo,400027,Mumbai City,Leisure,Static,Backlit,40,20,1100000,280000,2025-08-20,2026-02-19,CL16,Cadbury,FMCG,Active,2025-07-28
+MUM-W-093,Dahisar East, SV Road,400068,West Suburbs,Arterial Road,Digital,LED,40,20,1550000,590000,2025-09-01,2026-08-31,CL02,Coca-Cola,FMCG,Active,2025-08-28
+MUM-W-094,Khar Subway,400052,West Suburbs,Transit Hub,Static,Frontlit,30,15,1250000,320000,2025-07-01,2025-12-31,CL06,Myntra,E-commerce,Active,2024-04-11
+MUM-W-095,Sakinaka Metro Station,400072,West Suburbs,Transit Hub,Digital,LED,50,25,1800000,670000,2025-08-15,2025-11-14,CL11,Emirates,Travel,Active,2025-07-19
+MUM-S-096,Grant Road, Novelty Cinema,400007,South Mumbai,Leisure,Static,Backlit,40,20,1100000,300000,,,,,,Expired,2022-05-15
+MUM-S-097,Cuffe Parade, World Trade Centre,400005,South Mumbai,Commercial Hub,Digital,LED,60,30,1900000,880000,2025-09-01,2026-02-28,CL13,Taj Hotels,Hospitality,Active,2025-08-05
+MUM-E-098,Bhandup Pumping Station,400078,East Suburbs,Highway,Static,Backlit,70,35,2100000,700000,2025-01-01,2025-12-31,CL12,MG Hector,Automotive,Active,2024-10-01
+MUM-W-099,Kalina University,400098,West Suburbs,Leisure,Static,Frontlit,40,20,1200000,350000,2025-06-10,2025-09-09,CL09,Zomato,Tech,Active,2025-05-19
+NAV-T-100,Belapur Station,400614,Navi Mumbai,Transit Hub,Digital,LED,50,25,1550000,600000,2025-09-01,2025-11-30,CL04,ICICI Bank,Finance,Active,2025-08-12
+MUM-C-101,Prabhadevi, Siddhivinayak Temple,400025,Mumbai City,Leisure,Static,Backlit,30,15,1800000,500000,2025-08-01,2026-01-31,CL15,Tanishq,Jewellery,Active,2025-07-02
+MUM-W-102,Versova Beach,400061,West Suburbs,Leisure,Digital,LED,40,20,1000000,450000,2025-10-01,2025-12-31,CL19,Pepsi,FMCG,Active,2024-01-10
+MUM-E-103,Kanjurmarg, Eastern Express Highway,400042,East Suburbs,Highway,Static,Backlit,60,30,2000000,650000,2025-07-15,2025-10-14,CL20,Tata Motors,Automotive,Active,2025-06-15
+MUM-S-104,Walkeshwar, Teen Batti,400006,South Mumbai,Residential Area,Static,Frontlit,30,15,800000,400000,2025-09-01,2025-11-30,CL05,Lodha Group,Real Estate,Active,2022-11-05
+THA-C-105,Thane Station Road,400601,Thane,Commercial Hub,Digital,LED,50,25,1600000,580000,,,,,,Pending,
+MUM-W-106,Lokhandwala Complex, Andheri,400053,West Suburbs,Commercial Hub,Static,Backlit,40,20,1400000,380000,2025-08-10,2025-11-09,CL06,Myntra,E-commerce,Active,2024-07-22
+MUM-C-107,Parel, ITC Grand Central,400012,Mumbai City,Commercial Hub,Digital,LED,40,20,1700000,680000,2025-07-01,2026-06-30,CL13,Taj Hotels,Hospitality,Active,2025-06-12
+MUM-E-108,Vidyavihar, near Somaiya College,400077,East Suburbs,Leisure,Static,Frontlit,30,15,950000,250000,2025-09-01,2025-11-30,CL09,Zomato,Tech,Active,2023-08-01
+NAV-R-109,Kharghar, Central Park,410210,Navi Mumbai,Residential Area,Digital,LED,50,25,1200000,520000,2025-06-01,2025-11-30,CL05,Lodha Group,Real Estate,Active,2025-05-10
+MUM-W-110,Oshiwara, SV Road,400104,West Suburbs,Arterial Road,Static,Backlit,40,20,1300000,310000,,,,,,Active,2024-09-08
+MUM-S-111,Mumbai Central Station,400008,South Mumbai,Transit Hub,Digital,LED,60,30,2100000,780000,2025-05-01,2025-10-31,CL18,Air India,Travel,Active,2025-04-02
+MUM-C-112,Shivaji Park, Dadar,400028,Mumbai City,Leisure,Static,Frontlit,50,25,1500000,480000,2025-09-01,2026-02-28,CL17,HDFC Bank,Finance,Active,2025-08-09
+MUM-W-113,Mira Road, Western Express Highway,401107,Mira-Bhayandar,Highway,Static,Backlit,80,40,2500000,850000,2025-08-01,2026-01-31,CL20,Tata Motors,Automotive,Expired,2022-03-16
+MUM-E-114,Tilak Nagar, near Station,400089,East Suburbs,Transit Hub,Digital,LED,40,20,1100000,480000,2025-07-20,2025-10-19,CL03,Samsung,Electronics,Active,2024-06-30
+MUM-S-115,Breach Candy,400026,South Mumbai,Residential Area,Static,Frontlit,30,15,1100000,550000,2025-09-01,2026-08-31,CL14,Rolex,Luxury Goods,Active,2025-08-16
+MUM-W-116,Charkop Market, Kandivali,400067,West Suburbs,Commercial Hub,Static,Backlit,40,20,1000000,270000,,,,,,Active,2024-05-22
+THA-I-117,Wagle Estate, Thane,400604,Thane,Industrial,Digital,LED,50,25,900000,450000,2025-08-15,2025-11-14,CL21,Blue Dart,Logistics,Active,2025-07-26
+MUM-C-118,Elphinstone Bridge,400013,Mumbai City,Arterial Road,Static,Backlit,40,20,1850000,520000,2025-07-01,2025-12-31,CL09,Zomato,Tech,Active,2025-01-01
+MUM-W-119,Gorai Beach Road,400091,West Suburbs,Leisure,Static,Frontlit,30,15,700000,220000,2025-09-01,2025-11-30,CL02,Coca-Cola,FMCG,Pending,
+NAV-H-120,Kalamboli, Mumbai-Pune Highway,410218,Navi Mumbai,Highway,Static,Backlit,100,50,2800000,1000000,2025-06-15,2025-12-14,CL12,MG Hector,Automotive,Active,2025-05-20
+MUM-E-121,Mankhurd, Sion-Panvel Highway,400088,East Suburbs,Highway,Digital,LED,60,30,1900000,600000,2025-05-10,2025-11-09,CL07,BMW India,Automotive,Active,2025-04-11
+MUM-S-122,Kemps Corner,400036,South Mumbai,Commercial Hub,Static,Frontlit,40,20,1600000,600000,2025-08-20,2026-02-19,CL15,Tanishq,Jewellery,Active,2025-07-22
+MUM-W-123,Malad Mindspace,400064,West Suburbs,Commercial Hub,Digital,LED,50,25,1500000,650000,,,,,,Active,2025-01-18
+MUM-C-124,Worli Dairy,400018,Mumbai City,Arterial Road,Static,Backlit,40,20,1750000,540000,2025-09-01,2026-08-31,CL16,Cadbury,FMCG,Active,2025-08-19
+PAL-R-125,Vasai, Ambadi Road,401202,Palghar,Residential Area,Static,Frontlit,30,15,900000,280000,2025-07-01,2025-12-31,CL05,Lodha Group,Real Estate,Active,2024-03-01
+MUM-W-126,Jogeshwari, Western Express Highway,400060,West Suburbs,Highway,Digital,LED,70,35,2300000,800000,2025-08-15,2025-11-14,CL11,Emirates,Travel,Active,2025-07-16
+MUM-E-127,Deonar, near Dumping Ground,400088,East Suburbs,Arterial Road,Static,Backlit,50,25,1000000,240000,2025-09-01,2026-02-28,CL19,Pepsi,FMCG,Active,2022-06-10
+MUM-S-128,Gateway of India,400001,South Mumbai,Leisure,Digital,LED,40,20,1800000,900000,2025-01-01,2025-12-31,CL13,Taj Hotels,Hospitality,Active,2024-11-12
+THA-C-129,Bhiwandi, Kalyan-Bhiwandi Road,421302,Thane,Commercial Hub,Static,Backlit,60,30,1700000,500000,,,,,,Expired,2021-09-22
+MUM-W-130,Borivali National Park Entrance,400066,West Suburbs,Leisure,Static,Frontlit,40,20,1100000,320000,2025-06-10,2025-09-09,CL10,Amazon Prime,Entertainment,Active,2024-02-15
+MUM-C-131,Lalbaug Flyover,400012,Mumbai City,Highway,Digital,LED,50,25,2000000,720000,2025-09-01,2025-11-30,CL03,Samsung,Electronics,Active,2025-08-04
+MUM-E-132,Kopar Khairane, Thane-Belapur Road,400709,Navi Mumbai,Commercial Hub,Static,Backlit,40,20,1250000,350000,2025-08-01,2026-01-31,CL09,Zomato,Tech,Active,2025-07-05
+MUM-W-133,Yari Road, Versova,400061,West Suburbs,Residential Area,Digital,LED,30,15,900000,430000,2025-07-20,2025-10-19,CL01,Netflix India,Entertainment,Active,2024-05-18
+MUM-S-134,Charni Road Station,400004,South Mumbai,Transit Hub,Static,Frontlit,40,20,1700000,420000,,,,,,Active,2025-03-20
+MUM-C-135,Sasmira, Worli,400030,Mumbai City,Commercial Hub,Digital,LED,40,20,1600000,630000,2025-05-01,2025-10-31,CL06,Myntra,E-commerce,Active,2025-04-15
+MUM-W-136,Aarey Colony, Goregaon,400065,West Suburbs,Arterial Road,Static,Backlit,50,25,800000,230000,2025-09-01,2026-08-31,CL19,Pepsi,FMCG,Active,2022-12-30
+NAV-H-137,Ulwe, near Airport,410206,Navi Mumbai,Highway,Digital,LED,80,40,2200000,750000,2025-07-20,2026-01-19,CL18,Air India,Travel,Active,2025-06-25
+MUM-E-138,Anushakti Nagar,400094,East Suburbs,Residential Area,Static,Frontlit,30,15,850000,260000,2025-08-01,2025-10-31,CL17,HDFC Bank,Finance,Active,2024-06-01
+MUM-S-139,Kalbadevi Road,400002,South Mumbai,Commercial Hub,Static,Backlit,30,15,1500000,390000,,,,,,Pending,
+MUM-W-140,Thakur Village, Kandivali,400101,West Suburbs,Residential Area,Digital,LED,40,20,1150000,500000,2025-06-15,2025-12-14,CL05,Lodha Group,Real Estate,Active,2025-05-28
+MUM-C-141,Five Gardens, Matunga,400019,Mumbai City,Residential Area,Static,Frontlit,30,15,1000000,350000,2025-04-01,2025-09-30,CL16,Cadbury,FMCG,Active,2024-02-20
+MUM-E-142,Ghansoli, Palm Beach Extension,400701,Navi Mumbai,Arterial Road,Digital,LED,50,25,1400000,560000,2025-08-15,2025-11-14,CL20,Tata Motors,Automotive,Active,2025-07-14
+MUM-W-143,Dahisar River Bridge,400068,West Suburbs,Arterial Road,Static,Backlit,40,20,1400000,360000,,,,,,Active,2024-10-05
+MUM-S-144,Bhuleshwar Market,400002,South Mumbai,Commercial Hub,Static,Backlit,30,15,1600000,410000,2025-07-01,2025-12-31,CL02,Coca-Cola,FMCG,Active,2025-03-11
+THA-R-145,Kalyan, Station Road,421301,Thane,Residential Area,Digital,LED,40,20,1300000,500000,2025-05-10,2025-11-09,CL03,Samsung,Electronics,Expired,2023-01-02
+MUM-W-146,Marve Beach, Malad,400095,West Suburbs,Leisure,Static,Frontlit,40,20,800000,250000,2025-08-20,2026-02-19,CL08,Starbucks,F&B,Active,2024-07-15
+MUM-C-147,Antop Hill,400037,Mumbai City,Residential Area,Static,Backlit,30,15,900000,270000,,,,,,Active,2025-01-22
+MUM-E-148,Govandi, near Station,400043,East Suburbs,Transit Hub,Digital,LED,50,25,1200000,490000,2025-09-01,2026-08-31,CL06,Myntra,E-commerce,Active,2025-08-25
+MUM-S-149,Malabar Hill,400006,South Mumbai,Residential Area,Static,Frontlit,30,15,1200000,600000,2025-07-01,2025-12-31,CL14,Rolex,Luxury Goods,Active,2025-06-02
+MUM-W-150,Royal Palms, Goregaon,400065,West Suburbs,Residential Area,Digital,LED,40,20,700000,400000,2025-08-15,2025-11-14,CL05,Lodha Group,Real Estate,Active,2023-06-18
+MUM-C-151,Hindmata, Dadar,400014,Mumbai City,Commercial Hub,Static,Backlit,50,25,1900000,550000,2025-09-01,2026-02-28,CL15,Tanishq,Jewellery,Active,2025-08-08
+MUM-W-152,Film City Main Gate,400065,West Suburbs,Leisure,Digital,LED,60,30,1300000,650000,2025-01-01,2025-12-31,CL01,Netflix India,Entertainment,Active,2024-11-28
+MUM-E-153,Rabale, MIDC,400701,Navi Mumbai,Industrial,Static,Frontlit,40,20,1000000,300000,,,,,,Pending,
+MUM-S-154,Crawford Market,400001,South Mumbai,Commercial Hub,Static,Backlit,40,20,1800000,480000,2025-06-10,2025-09-09,CL19,Pepsi,FMCG,Active,2025-05-14
+THA-H-155,Dombivli, Manpada Road,421201,Thane,Highway,Digital,LED,50,25,1500000,540000,2025-09-01,2025-11-30,CL09,Zomato,Tech,Active,2025-08-13
+MUM-W-156,Poisar Depot, Kandivali,400101,West Suburbs,Transit Hub,Static,Backlit,40,20,1200000,310000,2025-08-01,2026-01-31,CL17,HDFC Bank,Finance,Active,2025-07-04
+MUM-C-157,Sewri, near Railway Station,400015,Mumbai City,Transit Hub,Static,Frontlit,30,15,1100000,290000,2025-07-20,2025-10-19,CL16,Cadbury,FMCG,Active,2024-05-01
+NAV-A-158,Seawoods, Palm Beach Road,400706,Navi Mumbai,Arterial Road,Digital,LED,60,30,1700000,620000,,,,,,Active,2025-06-18
+MUM-S-159,Zaveri Bazaar,400003,South Mumbai,Commercial Hub,Static,Backlit,30,15,1700000,450000,2025-05-01,2025-10-31,CL15,Tanishq,Jewellery,Active,2025-04-08
+MUM-W-160,Bangur Nagar, Goregaon,400104,West Suburbs,Residential Area,Static,Frontlit,40,20,1050000,290000,2025-09-01,2026-08-31,CL05,Lodha Group,Real Estate,Active,2023-03-10
+MUM-E-161,Turbhe, APMC Market,400705,Navi Mumbai,Commercial Hub,Digital,LED,70,35,1800000,680000,2025-07-20,2026-01-19,CL21,Blue Dart,Logistics,Active,2025-06-28
+MUM-C-162,King's Circle, Matunga,400019,Mumbai City,Arterial Road,Static,Backlit,40,20,1600000,450000,2025-08-01,2025-10-31,CL04,ICICI Bank,Finance,Active,2025-07-09
+MUM-W-163,Aksa Beach, Malad,400095,West Suburbs,Leisure,Static,Frontlit,30,15,750000,240000,,,,,,Active,2024-04-20
+PAL-H-164,Nalasopara, Station Flyover,401203,Palghar,Highway,Static,Backlit,60,30,1600000,480000,2025-06-15,2025-12-14,CL20,Tata Motors,Automotive,Active,2025-05-16
+MUM-S-165,Ballard Estate,400001,South Mumbai,Commercial Hub,Digital,LED,40,20,1300000,600000,2025-04-01,2025-09-30,CL13,Taj Hotels,Hospitality,Expired,2022-02-05
+MUM-W-166,JVPD Scheme, Juhu,400049,West Suburbs,Residential Area,Static,Backlit,40,20,1200000,480000,2025-08-15,2025-11-14,CL01,Netflix India,Entertainment,Active,2025-07-18
+MUM-E-167,Sanpada, Sion-Panvel Highway,400705,Navi Mumbai,Highway,Digital,LED,70,35,2100000,740000,2025-07-01,2025-12-31,CL07,BMW India,Automotive,Active,2025-06-08
+MUM-C-168,Tardeo, AC Market,400034,Mumbai City,Commercial Hub,Static,Frontlit,30,15,1500000,430000,,,,,,Pending,
+MUM-W-169,IC Colony, Borivali,400103,West Suburbs,Residential Area,Static,Backlit,30,15,950000,280000,2025-05-10,2025-11-09,CL17,HDFC Bank,Finance,Active,2024-03-15
+THA-R-170,Ulhasnagar, near Station,421003,Thane,Residential Area,Digital,LED,40,20,1100000,470000,2025-08-20,2026-02-19,CL03,Samsung,Electronics,Active,2025-07-24
+MUM-S-171,Flora Fountain,400001,South Mumbai,Leisure,Static,Frontlit,40,20,1700000,650000,2025-09-01,2026-08-31,CL18,Air India,Travel,Active,2025-08-26
+MUM-W-172,Mahakali Caves Road, Andheri,400093,West Suburbs,Arterial Road,Static,Backlit,40,20,1100000,300000,,,,,,Active,2022-10-10
+MUM-E-173,Nerul, Seawoods Bridge,400706,Navi Mumbai,Arterial Road,Digital,LED,50,25,1600000,610000,2025-07-01,2025-12-31,CL05,Lodha Group,Real Estate,Active,2025-06-19
+MUM-C-174,Cotton Green Station,400033,Mumbai City,Transit Hub,Static,Frontlit,30,15,1000000,280000,2025-08-15,2025-11-14,CL02,Coca-Cola,FMCG,Active,2024-06-22
+MUM-W-175,Bhayandar, near Flyover,401105,Mira-Bhayandar,Highway,Static,Backlit,60,30,1800000,550000,2025-09-01,2026-02-28,CL12,MG Hector,Automotive,Active,2025-08-14
+MUM-S-176,Mazagaon, Dockyard Road,400010,South Mumbai,Industrial,Digital,LED,40,20,1200000,500000,2025-01-01,2025-12-31,CL21,Blue Dart,Logistics,Active,2024-11-02
+MUM-W-177,Pali Hill, Bandra,400050,West Suburbs,Residential Area,Static,Frontlit,30,15,1300000,580000,2025-06-10,2025-09-09,CL14,Rolex,Luxury Goods,Active,2025-05-15
+MUM-E-178,Vikhroli, Godrej Compound,400079,East Suburbs,Commercial Hub,Static,Backlit,50,25,1400000,400000,,,,,,Expired,2022-04-25
+MUM-C-179,Wadala, IMAX Dome,400037,Mumbai City,Leisure,Digital,LED,60,30,1800000,700000,2025-09-01,2025-11-30,CL10,Amazon Prime,Entertainment,Active,2025-08-06
+MUM-W-180,DN Nagar, Andheri,400058,West Suburbs,Commercial Hub,Static,Frontlit,40,20,1500000,400000,2025-08-01,2026-01-31,CL06,Myntra,E-commerce,Active,2025-07-08
+MUM-S-181,JJ Flyover Start, Byculla,400008,South Mumbai,Highway,Digital,LED,50,25,2200000,780000,2025-07-20,2025-10-19,CL09,Zomato,Tech,Active,2025-06-29
+MUM-W-182,Carter Road, Bandra,400050,West Suburbs,Leisure,Static,Backlit,40,20,1400000,520000,2025-05-01,2025-10-31,CL08,Starbucks,F&B,Active,2025-04-06
+THA-C-183,Ambernath, Station Road,421501,Thane,Commercial Hub,Static,Frontlit,40,20,1000000,300000,,,,,,Active,2023-01-28
+MUM-E-184,Mahape, Millennium Business Park,400710,Navi Mumbai,Commercial Hub,Digital,LED,60,30,1500000,630000,2025-09-01,2026-08-31,CL04,ICICI Bank,Finance,Active,2025-08-21
+MUM-W-185,Goregaon Sports Club,400104,West Suburbs,Leisure,Static,Backlit,30,15,800000,260000,2025-07-20,2026-01-19,CL19,Pepsi,FMCG,Active,2024-06-11
+MUM-C-186,Sion Hospital,400022,Mumbai City,Arterial Road,Static,Frontlit,40,20,1500000,400000,2025-08-01,2025-10-31,CL17,HDFC Bank,Finance,Active,2025-07-11
+MUM-S-187,Sandhurst Road Station,400009,South Mumbai,Transit Hub,Digital,LED,40,20,1400000,550000,,,,,,Pending,
+MUM-W-188,Evershine Nagar, Malad,400064,West Suburbs,Residential Area,Static,Backlit,40,20,1100000,300000,2025-06-15,2025-12-14,CL05,Lodha Group,Real Estate,Active,2025-05-21
+NAV-I-189,Taloja MIDC,410208,Navi Mumbai,Industrial,Static,Frontlit,50,25,900000,280000,2025-04-01,2025-09-30,CL21,Blue Dart,Logistics,Active,2024-02-10
+MUM-E-190,Chembur Naka,400071,East Suburbs,Commercial Hub,Digital,LED,50,25,1600000,600000,2025-08-15,2025-11-14,CL15,Tanishq,Jewellery,Active,2025-07-17
+MUM-W-191,Juhu Galli, Andheri,400058,West Suburbs,Commercial Hub,Static,Backlit,30,15,1300000,340000,,,,,,Active,2024-08-30
+MUM-C-192,Worli Naka,400018,Mumbai City,Arterial Road,Static,Frontlit,40,20,1800000,560000,2025-07-01,2025-12-31,CL16,Cadbury,FMCG,Active,2025-06-04
+MUM-S-193,Bhendi Bazaar,400003,South Mumbai,Commercial Hub,Digital,LED,40,20,1600000,580000,2025-05-10,2025-11-09,CL02,Coca-Cola,FMCG,Active,2025-04-12
+MUM-W-194,Seven Bungalows, Andheri,400061,West Suburbs,Residential Area,Static,Backlit,40,20,1250000,380000,2025-08-20,2026-02-19,CL01,Netflix India,Entertainment,Active,2025-07-23
+PAL-T-195,Virar, Bolinj Road,401303,Palghar,Transit Hub,Static,Frontlit,30,15,1100000,300000,,,,,,Expired,2021-07-01
+MUM-E-196,Airoli Station,400708,Navi Mumbai,Transit Hub,Digital,LED,50,25,1300000,530000,2025-09-01,2026-08-31,CL09,Zomato,Tech,Active,2025-08-24
+MUM-W-197,Kandarpada, Dahisar West,400068,West Suburbs,Residential Area,Static,Backlit,30,15,900000,270000,2025-07-01,2025-12-31,CL17,HDFC Bank,Finance,Active,2024-05-05
+MUM-C-198,Bombay Scottish School, Mahim,400016,Mumbai City,Leisure,Static,Frontlit,40,20,1500000,460000,2025-08-15,2025-11-14,CL10,Amazon Prime,Entertainment,Active,2025-07-18
+MUM-S-199,Hughes Road,400007,South Mumbai,Arterial Road,Digital,LED,40,20,1700000,680000,2025-09-01,2026-02-28,CL14,Rolex,Luxury Goods,Active,2025-08-07
+MUM-W-200,Infiniti Mall, Andheri,400053,West Suburbs,Commercial Hub,Static,Backlit,60,30,1600000,600000,2025-01-01,2025-12-31,CL03,Samsung,Electronics,Active,2024-11-18
+MUM-W-201,Bandra-Worli Sea Link,400050,West Suburbs,Highway,Static,Frontlit,60,30,2400000,800000,2025-07-01,2025-12-31,CL01,Netflix India,Entertainment,Active,2025-06-10
+MUM-C-202,Dadar Station West,400028,Mumbai City,Transit Hub,Digital,LED,40,20,1900000,450000,2025-08-15,2025-11-14,CL02,Coca-Cola,FMCG,Active,2025-07-15
+MUM-W-203,Juhu Circle,400049,West Suburbs,Commercial Hub,Static,Backlit,50,25,1400000,550000,2025-09-01,2026-02-28,CL03,Samsung,Electronics,Active,2025-02-22
+MUM-S-204,Marine Drive,400020,South Mumbai,Arterial Road,Digital,LED,30,15,2100000,800000,2025-01-01,2025-12-31,CL04,ICICI Bank,Finance,Active,2025-01-08
+MUM-W-205,Andheri East Station,400069,West Suburbs,Transit Hub,Digital,LED,40,20,1850000,420000,,,,,,Expired,2022-09-01
+MUM-E-206,Powai, Hiranandani,400076,East Suburbs,Static,Frontlit,40,20,1100000,500000,2025-06-10,2025-09-09,CL05,Lodha Group,Real Estate,Active,2025-04-28
+MUM-W-207,Goregaon Film City Road,400065,West Suburbs,Arterial Road,Digital,LED,50,25,1000000,300000,2025-09-01,2025-11-30,CL01,Netflix India,Entertainment,Active,2024-08-15
+MUM-S-208,CST Station,400001,South Mumbai,Transit Hub,Static,Backlit,60,30,2100000,750000,2025-08-01,2026-01-31,CL06,Myntra,E-commerce,Active,2025-03-25
+MUM-W-209,Bandra Linking Road,400050,West Suburbs,Commercial Hub,Digital,LED,30,15,1700000,500000,2025-07-20,2025-10-19,CL06,Myntra,E-commerce,Active,2024-10-11
+THA-H-210,Thane, Eastern Express Highway,400604,Thane,Highway,Digital,LED,80,40,2900000,1000000,2025-05-01,2025-10-31,CL07,BMW India,Automotive,Active,2025-05-18
+MUM-E-211,Chembur, Sion-Trombay Road,400071,East Suburbs,Digital,LED,40,20,1200000,320000,,,,,,Pending,
+MUM-S-212,Colaba Causeway,400005,South Mumbai,Commercial Hub,Static,Frontlit,30,15,1200000,450000,2025-09-01,2025-11-30,CL08,Starbucks,F&B,Active,2025-08-28
+MUM-W-213,Malad, SV Road,400064,West Suburbs,Digital,LED,50,25,1500000,370000,2025-04-15,2025-10-14,CL02,Coca-Cola,FMCG,Active,2024-02-01
+NAV-H-214,Navi Mumbai, Palm Beach Road,400705,Navi Mumbai,Highway,Static,Frontlit,60,30,1800000,600000,2025-08-20,2026-02-19,CL05,Lodha Group,Real Estate,Active,2025-07-30
+MUM-C-215,Worli Sea Face,400030,Mumbai City,Arterial Road,Digital,LED,40,20,1700000,600000,2025-03-01,2026-02-28,CL04,ICICI Bank,Finance,Active,2024-12-18
+NAV-T-216,Vashi Station Complex,400703,Navi Mumbai,Transit Hub,Static,Backlit,50,25,1600000,580000,,,,,,Active,2025-06-25
+MUM-W-217,Kandivali, Western Express Highway,400101,West Suburbs,Highway,Digital,LED,70,35,2700000,950000,2025-07-01,2025-09-30,CL07,BMW India,Automotive,Active,2025-01-18
+MUM-C-218,Lower Parel, Phoenix Mills,400013,Mumbai City,Commercial Hub,Static,Backlit,40,20,1700000,650000,2025-08-05,2025-11-04,CL09,Zomato,Tech,Active,2025-03-12
+MUM-E-219,Ghatkopar, LBS Marg,400086,East Suburbs,Digital,LED,40,20,1400000,350000,2025-09-01,2025-09-30,CL10,Amazon Prime,Entertainment,Active,2024-05-28
+MUM-C-220,Sion Circle,400022,Mumbai City,Arterial Road,Digital,LED,30,15,1550000,400000,,,,,,Active,2025-04-01
+MUM-W-221,Bandra Kurla Complex (BKC),400051,West Suburbs,Commercial Hub,Static,Backlit,60,30,1900000,850000,2025-01-01,2025-12-31,CL04,ICICI Bank,Finance,Expired,2022-11-28
+MUM-C-222,Dadar TT Circle,400014,Mumbai City,Arterial Road,Static,Frontlit,40,20,1500000,520000,2025-06-15,2025-12-14,CL03,Samsung,Electronics,Active,2025-03-18
+MUM-W-223,Andheri, Link Road,400053,West Suburbs,Commercial Hub,Digital,LED,50,25,1650000,470000,2025-05-10,2025-11-09,CL06,Myntra,E-commerce,Active,2024-08-28
+MUM-W-224,Mumbai Airport T2,400099,West Suburbs,Transit Hub,Static,Backlit,80,40,2300000,1100000,2025-07-01,2026-06-30,CL11,Emirates,Travel,Active,2025-06-15
+MUM-C-225,Mahim Causeway,400016,Mumbai City,Arterial Road,Digital,LED,40,20,1800000,520000,,,,,,Active,2023-07-20
+NAV-H-226,Panvel, Mumbai-Pune Expressway,410206,Navi Mumbai,Highway,Digital,LED,100,50,3100000,1200000,2025-08-01,2026-01-31,CL12,MG Hector,Automotive,Active,2025-07-28
+MUM-W-227,Borivali Station West,400092,West Suburbs,Transit Hub,Digital,LED,40,20,1750000,400000,2025-09-01,2025-11-30,CL02,Coca-Cola,FMCG,Active,2024-07-08
+MUM-S-228,Nariman Point,400021,South Mumbai,Commercial Hub,Static,Frontlit,50,25,1700000,720000,2025-02-14,2025-10-13,CL13,Taj Hotels,Hospitality,Active,2024-10-22
+MUM-W-229,Kalanagar, Bandra East,400051,West Suburbs,Arterial Road,Digital,LED,30,15,1450000,450000,,,,,,Active,2025-01-28
+PAL-H-230,Virar, Highway Junction,401303,Palghar,Highway,Digital,LED,60,30,1600000,500000,2025-09-01,2026-03-01,CL05,Lodha Group,Real Estate,Active,2024-11-15
+MUM-W-231,Juhu Beach,400049,West Suburbs,Leisure,Digital,LED,40,20,1350000,420000,2025-07-15,2025-10-14,CL08,Starbucks,F&B,Active,2023-06-01
+MUM-S-232,Churchgate Station,400020,South Mumbai,Transit Hub,Static,Backlit,40,20,1800000,600000,2025-06-01,2025-11-30,CL10,Amazon Prime,Entertainment,Active,2025-05-05
+MUM-C-233,Haji Ali Junction,400026,Mumbai City,Arterial Road,Static,Frontlit,50,25,2000000,700000,2025-08-10,2026-02-09,CL14,Rolex,Luxury Goods,Active,2025-07-20
+MUM-E-234,Kurla, LBS Marg,400070,East Suburbs,Commercial Hub,Digital,LED,60,30,1700000,480000,2025-03-01,2025-09-30,CL03,Samsung,Electronics,Expired,2022-05-01
+MUM-W-235,Vile Parle, SV Road,400056,West Suburbs,Arterial Road,Digital,LED,40,20,1500000,380000,,,,,,Active,2024-10-15
+MUM-S-236,Peddar Road,400026,South Mumbai,Residential Area,Digital,LED,30,15,1000000,500000,2025-05-01,2025-10-31,CL14,Rolex,Luxury Goods,Active,2025-02-15
+THA-R-237,Thane, Ghodbunder Road,400607,Thane,Residential Area,Static,Backlit,40,20,1000000,450000,2025-09-01,2026-08-31,CL05,Lodha Group,Real Estate,Active,2025-08-28
+MUM-E-238,Mulund Check Naka,400080,East Suburbs,Highway,Digital,LED,70,35,2500000,850000,2025-07-20,2026-01-19,CL12,MG Hector,Automotive,Active,2025-05-20
+MUM-S-239,Fort, DN Road,400001,South Mumbai,Commercial Hub,Digital,LED,40,20,1600000,550000,2025-08-01,2025-10-31,CL04,ICICI Bank,Finance,Active,2024-11-01
+MUM-W-240,Santacruz, Western Express Highway,400055,West Suburbs,Highway,Digital,LED,60,30,2400000,870000,2025-06-15,2025-12-14,CL01,Netflix India,Entertainment,Active,2025-02-10
+NAV-C-241,Airoli, Thane-Belapur Road,400708,Navi Mumbai,Commercial Hub,Static,Frontlit,50,25,1300000,520000,2025-09-01,2026-02-28,CL09,Zomato,Tech,Active,2025-08-25
+MUM-C-242,Byculla, Dr Ambedkar Road,400027,Mumbai City,Arterial Road,Digital,LED,40,20,1300000,330000,,,,,,Active,2024-01-15
+MUM-W-243,Dahisar Check Naka,400068,West Suburbs,Highway,Digital,LED,80,40,2800000,970000,2025-04-01,2025-09-30,CL07,BMW India,Automotive,Active,2025-01-05
+MUM-W-244,Khar, 14th Road,400052,West Suburbs,Residential Area,Digital,LED,30,15,950000,350000,2025-08-15,2025-11-14,CL06,Myntra,E-commerce,Active,2023-04-01
+MUM-W-245,Sakinaka, Andheri-Kurla Road,400072,West Suburbs,Commercial Hub,Static,Backlit,40,20,1550000,580000,2025-07-01,2025-12-31,CL11,Emirates,Travel,Active,2025-06-30
+MUM-S-246,Grant Road, Lamington Road,400007,South Mumbai,Commercial Hub,Digital,LED,30,15,1250000,320000,2025-09-01,2025-11-30,CL03,Samsung,Electronics,Active,2024-07-15
+MUM-S-247,Cuffe Parade,400005,South Mumbai,Residential Area,Static,Frontlit,30,15,850000,500000,2025-05-10,2025-11-09,CL13,Taj Hotels,Hospitality,Active,2025-04-15
+MUM-E-248,Bhandup, LBS Marg,400078,East Suburbs,Arterial Road,Digital,LED,50,25,1350000,360000,,,,,,Expired,2022-08-01
+MUM-W-249,Kalina, BKC Connector,400098,West Suburbs,Arterial Road,Digital,LED,40,20,1900000,550000,2025-08-20,2026-02-19,CL01,Netflix India,Entertainment,Active,2025-08-01
+NAV-C-250,Belapur CBD,400614,Navi Mumbai,Commercial Hub,Static,Backlit,60,30,1500000,620000,2025-09-01,2026-08-31,CL04,ICICI Bank,Finance,Active,2025-08-30
+MUM-C-251,Bandra-Worli Sea Link Exit,400030,Mumbai City,Highway,Static,Frontlit,60,30,2350000,780000,2025-07-01,2025-12-31,CL07,BMW India,Automotive,Active,2025-01-25
+MUM-C-252,Dadar East, Tilak Bridge,400014,Mumbai City,Transit Hub,Digital,LED,40,20,1880000,430000,2025-08-15,2025-11-14,CL02,Coca-Cola,FMCG,Active,2024-11-20
+MUM-W-253,Juhu Tara Road,400049,West Suburbs,Arterial Road,Static,Backlit,40,20,1350000,530000,2025-09-01,2026-02-28,CL08,Starbucks,F&B,Active,2025-08-10
+MUM-S-254,Marine Lines,400002,South Mumbai,Residential Area,Digital,LED,30,15,2000000,750000,2025-01-01,2025-12-31,CL14,Rolex,Luxury Goods,Active,2025-02-28
+MUM-W-255,Andheri West, SV Road,400058,West Suburbs,Commercial Hub,Digital,LED,50,25,1700000,460000,,,,,,Pending,
+MUM-E-256,Powai Lake Promenade,400076,East Suburbs,Leisure,Static,Frontlit,30,15,1000000,480000,2025-06-10,2025-09-09,CL09,Zomato,Tech,Active,2025-06-05
+MUM-W-257,Goregaon, Link Road,400104,West Suburbs,Commercial Hub,Digital,LED,40,20,1400000,380000,2025-09-01,2025-11-30,CL10,Amazon Prime,Entertainment,Active,2024-06-10
+MUM-S-258,CSMT Subway,400001,South Mumbai,Transit Hub,Static,Backlit,30,15,2000000,700000,2025-08-01,2026-01-31,CL06,Myntra,E-commerce,Active,2025-04-30
+MUM-W-259,Bandra Reclamation,400050,West Suburbs,Residential Area,Digital,LED,40,20,1650000,520000,2025-07-20,2025-10-19,CL05,Lodha Group,Real Estate,Active,2024-10-01
+THA-H-260,Thane, Teen Hath Naka,400602,Thane,Highway,Digital,LED,70,35,2850000,980000,2025-05-01,2025-10-31,CL12,MG Hector,Automotive,Active,2025-04-10
+MUM-E-261,Chembur Camp,400074,East Suburbs,Residential Area,Digital,LED,30,15,1100000,300000,,,,,,Active,2023-03-01
+MUM-S-262,Opera House,400004,South Mumbai,Commercial Hub,Static,Frontlit,40,20,1300000,550000,2025-09-01,2025-11-30,CL03,Samsung,Electronics,Active,2025-08-20
+MUM-W-263,Malad, Inorbit Mall,400064,West Suburbs,Commercial Hub,Static,Backlit,50,25,1600000,620000,2025-04-15,2025-10-14,CL01,Netflix India,Entertainment,Expired,2023-02-01
+NAV-A-264,Navi Mumbai, Uran Road,400702,Navi Mumbai,Arterial Road,Digital,LED,60,30,1900000,650000,2025-08-20,2026-02-19,CL18,Air India,Travel,Active,2025-07-29
+MUM-C-265,Worli, Annie Besant Road,400018,Mumbai City,Commercial Hub,Digital,LED,40,20,1750000,580000,2025-03-01,2026-02-28,CL04,ICICI Bank,Finance,Active,2024-12-11
+NAV-H-266,Vashi, Sion-Panvel Highway,400703,Navi Mumbai,Highway,Digital,LED,80,40,2700000,920000,,,,,,Active,2025-06-30
+MUM-W-267,Kandivali East, Akurli Road,400101,West Suburbs,Residential Area,Digital,LED,30,15,1050000,320000,2025-07-01,2025-09-30,CL17,HDFC Bank,Finance,Active,2024-04-18
+MUM-C-268,Lower Parel, Senapati Bapat Marg,400013,Mumbai City,Commercial Hub,Static,Backlit,60,30,1850000,800000,2025-08-05,2025-11-04,CL09,Zomato,Tech,Active,2025-07-01
+MUM-E-269,Ghatkopar, R City Mall,400086,East Suburbs,Leisure,Static,Frontlit,40,20,1400000,600000,2025-09-01,2025-09-30,CL10,Amazon Prime,Entertainment,Active,2025-08-19
+MUM-C-270,Sion, Eastern Express Highway,400022,Mumbai City,Highway,Digital,LED,60,30,2350000,820000,2025-01-01,2025-12-31,CL12,MG Hector,Automotive,Active,2024-11-10
+MUM-W-271,BKC, Diamond Bourse,400051,West Suburbs,Commercial Hub,Digital,LED,50,25,2000000,650000,,,,,,Active,2025-03-28
+MUM-C-272,Dadar Flower Market,400028,Mumbai City,Commercial Hub,Digital,LED,30,15,1800000,420000,2025-06-15,2025-12-14,CL16,Cadbury,FMCG,Active,2024-09-25
+MUM-W-273,Andheri Flyover,400069,West Suburbs,Highway,Static,Backlit,70,35,2300000,830000,2025-05-10,2025-11-09,CL03,Samsung,Electronics,Active,2025-04-22
+MUM-W-274,Mumbai Airport T1,400099,West Suburbs,Transit Hub,Digital,LED,60,30,2100000,700000,2025-07-01,2026-06-30,CL11,Emirates,Travel,Active,2025-06-20
+MUM-C-275,Mahim, Cadell Road,400016,Mumbai City,Residential Area,Digital,LED,40,20,1700000,500000,,,,,,Active,2023-05-01
+NAV-C-276,Panvel City,410206,Navi Mumbai,Commercial Hub,Digital,LED,40,20,1500000,450000,2025-08-01,2026-01-31,CL05,Lodha Group,Real Estate,Active,2025-07-15
+MUM-W-277,Borivali, Shimpoli Road,400092,West Suburbs,Residential Area,Static,Frontlit,30,15,950000,420000,2025-09-01,2025-11-30,CL15,Tanishq,Jewellery,Active,2025-08-29
+MUM-S-278,Nariman Point, NCPA,400021,South Mumbai,Leisure,Static,Backlit,50,25,1650000,750000,2025-02-14,2025-10-13,CL13,Taj Hotels,Hospitality,Active,2024-12-05
+MUM-W-279,Kalanagar Flyover,400051,West Suburbs,Highway,Digital,LED,50,25,2000000,600000,2025-07-20,2025-10-19,CL06,Myntra,E-commerce,Active,2025-02-20
+PAL-T-280,Virar Station,401303,Palghar,Transit Hub,Digital,LED,40,20,1550000,400000,,,,,,Expired,2022-02-15
+MUM-W-281,Juhu, Vaikunthlal Mehta Road,400049,West Suburbs,Arterial Road,Digital,LED,40,20,1450000,450000,2025-05-01,2025-10-31,CL08,Starbucks,F&B,Active,2024-04-05
+MUM-S-282,Churchgate, Veer Nariman Road,400020,South Mumbai,Commercial Hub,Static,Frontlit,40,20,1750000,620000,2025-09-01,2026-08-31,CL10,Amazon Prime,Entertainment,Active,2025-09-01
+MUM-C-283,Haji Ali Dargah Road,400034,Mumbai City,Leisure,Digital,LED,30,15,2100000,650000,2025-07-20,2026-01-19,CL16,Cadbury,FMCG,Active,2025-05-25
+MUM-E-284,Kurla Station,400070,East Suburbs,Transit Hub,Static,Backlit,50,25,1650000,580000,2025-08-01,2025-10-31,CL03,Samsung,Electronics,Active,2025-07-22
+MUM-W-285,Vile Parle East, Nehru Road,400057,West Suburbs,Commercial Hub,Digital,LED,40,20,1400000,370000,,,,,,Pending,
+MUM-S-286,Peddar Road, Jaslok Hospital,400026,South Mumbai,Arterial Road,Static,Frontlit,30,15,900000,520000,2025-06-15,2025-12-14,CL14,Rolex,Luxury Goods,Active,2025-05-01
+THA-H-287,Thane, Majiwada Junction,400601,Thane,Highway,Static,Backlit,80,40,2750000,920000,2025-04-01,2025-09-30,CL07,BMW India,Automotive,Active,2025-01-30
+MUM-E-288,Mulund, LBS Marg,400080,East Suburbs,Commercial Hub,Digital,LED,50,25,1500000,400000,2025-08-15,2025-11-14,CL15,Tanishq,Jewellery,Active,2024-08-10
+MUM-S-289,Fort, Horniman Circle,400001,South Mumbai,Leisure,Digital,LED,30,15,1550000,570000,2025-07-01,2025-12-31,CL04,ICICI Bank,Finance,Active,2025-06-22
+MUM-W-290,Santacruz, Juhu Garden,400054,West Suburbs,Residential Area,Static,Backlit,40,20,1100000,480000,2025-05-10,2025-11-09,CL01,Netflix India,Entertainment,Active,2025-03-22
+NAV-A-291,Airoli Circle,400708,Navi Mumbai,Arterial Road,Digital,LED,50,25,1450000,500000,,,,,,Active,2022-10-01
+MUM-C-292,Byculla Zoo,400027,Mumbai City,Leisure,Digital,LED,40,20,1200000,320000,2025-08-20,2026-02-19,CL16,Cadbury,FMCG,Active,2025-08-04
+MUM-W-293,Dahisar East, SV Road,400068,West Suburbs,Arterial Road,Static,Frontlit,40,20,1450000,530000,2025-09-01,2026-08-31,CL02,Coca-Cola,FMCG,Active,2025-09-02
+MUM-W-294,Khar Subway,400052,West Suburbs,Transit Hub,Digital,LED,30,15,1350000,370000,2025-07-01,2025-12-31,CL06,Myntra,E-commerce,Active,2024-04-25
+MUM-W-295,Sakinaka Metro Station,400072,West Suburbs,Transit Hub,Static,Backlit,50,25,1700000,620000,2025-08-15,2025-11-14,CL11,Emirates,Travel,Active,2025-07-30
+MUM-S-296,Grant Road, Novelty Cinema,400007,South Mumbai,Leisure,Digital,LED,40,20,1200000,350000,,,,,,Expired,2022-06-01
+MUM-S-297,Cuffe Parade, World Trade Centre,400005,South Mumbai,Commercial Hub,Static,Backlit,60,30,1800000,820000,2025-09-01,2026-02-28,CL13,Taj Hotels,Hospitality,Active,2025-08-15
+MUM-E-298,Bhandup Pumping Station,400078,East Suburbs,Highway,Digital,LED,70,35,2200000,750000,2025-01-01,2025-12-31,CL12,MG Hector,Automotive,Active,2024-10-15
+MUM-W-299,Kalina University,400098,West Suburbs,Leisure,Digital,LED,40,20,1300000,400000,2025-06-10,2025-09-09,CL09,Zomato,Tech,Active,2025-06-01
+NAV-T-300,Belapur Station,400614,Navi Mumbai,Transit Hub,Static,Frontlit,50,25,1450000,550000,2025-09-01,2025-11-30,CL04,ICICI Bank,Finance,Active,2025-08-22
+MUM-C-301,Prabhadevi, Siddhivinayak Temple,400025,Mumbai City,Leisure,Digital,LED,30,15,1900000,550000,2025-08-01,2026-01-31,CL15,Tanishq,Jewellery,Active,2025-07-12
+MUM-W-302,Versova Beach,400061,West Suburbs,Leisure,Static,Backlit,40,20,900000,400000,2025-10-01,2025-12-31,CL19,Pepsi,FMCG,Active,2024-01-25
+MUM-E-303,Kanjurmarg, Eastern Express Highway,400042,East Suburbs,Highway,Digital,LED,60,30,2100000,700000,2025-07-15,2025-10-14,CL20,Tata Motors,Automotive,Active,2025-06-28
+MUM-S-304,Walkeshwar, Teen Batti,400006,South Mumbai,Residential Area,Digital,LED,30,15,900000,450000,2025-09-01,2025-11-30,CL05,Lodha Group,Real Estate,Active,2022-11-20
+THA-C-305,Thane Station Road,400601,Thane,Commercial Hub,Static,Frontlit,50,25,1500000,520000,,,,,,Pending,
+MUM-W-306,Lokhandwala Complex, Andheri,400053,West Suburbs,Commercial Hub,Digital,LED,40,20,1500000,420000,2025-08-10,2025-11-09,CL06,Myntra,E-commerce,Active,2024-08-05
+MUM-C-307,Parel, ITC Grand Central,400012,Mumbai City,Commercial Hub,Static,Backlit,40,20,1600000,620000,2025-07-01,2026-06-30,CL13,Taj Hotels,Hospitality,Active,2025-06-25
+MUM-E-308,Vidyavihar, near Somaiya College,400077,East Suburbs,Leisure,Digital,LED,30,15,1050000,300000,2025-09-01,2025-11-30,CL09,Zomato,Tech,Active,2023-08-15
+NAV-R-309,Kharghar, Central Park,410210,Navi Mumbai,Residential Area,Static,Frontlit,50,25,1100000,480000,2025-06-01,2025-11-30,CL05,Lodha Group,Real Estate,Active,2025-05-22
+MUM-W-310,Oshiwara, SV Road,400104,West Suburbs,Arterial Road,Digital,LED,40,20,1400000,360000,,,,,,Active,2024-09-20
+MUM-S-311,Mumbai Central Station,400008,South Mumbai,Transit Hub,Static,Backlit,60,30,2000000,720000,2025-05-01,2025-10-31,CL18,Air India,Travel,Active,2025-04-16
+MUM-C-312,Shivaji Park, Dadar,400028,Mumbai City,Leisure,Digital,LED,50,25,1600000,520000,2025-09-01,2026-02-28,CL17,HDFC Bank,Finance,Active,2025-08-20
+MUM-W-313,Mira Road, Western Express Highway,401107,Mira-Bhayandar,Highway,Digital,LED,80,40,2600000,900000,2025-08-01,2026-01-31,CL20,Tata Motors,Automotive,Expired,2022-04-01
+MUM-E-314,Tilak Nagar, near Station,400089,East Suburbs,Transit Hub,Static,Frontlit,40,20,1000000,420000,2025-07-20,2025-10-19,CL03,Samsung,Electronics,Active,2024-07-11
+MUM-S-315,Breach Candy,400026,South Mumbai,Residential Area,Digital,LED,30,15,1200000,600000,2025-09-01,2026-08-31,CL14,Rolex,Luxury Goods,Active,2025-08-30
+MUM-W-316,Charkop Market, Kandivali,400067,West Suburbs,Commercial Hub,Digital,LED,40,20,1100000,320000,,,,,,Active,2024-06-05
+THA-I-317,Wagle Estate, Thane,400604,Thane,Industrial,Static,Backlit,50,25,800000,400000,2025-08-15,2025-11-14,CL21,Blue Dart,Logistics,Active,2025-08-08
+MUM-C-318,Elphinstone Bridge,400013,Mumbai City,Arterial Road,Digital,LED,40,20,1950000,580000,2025-07-01,2025-12-31,CL09,Zomato,Tech,Active,2025-01-15
+MUM-W-319,Gorai Beach Road,400091,West Suburbs,Leisure,Digital,LED,30,15,800000,270000,2025-09-01,2025-11-30,CL02,Coca-Cola,FMCG,Pending,
+NAV-H-320,Kalamboli, Mumbai-Pune Highway,410218,Navi Mumbai,Highway,Digital,LED,100,50,2900000,1050000,2025-06-15,2025-12-14,CL12,MG Hector,Automotive,Active,2025-06-02
+MUM-E-321,Mankhurd, Sion-Panvel Highway,400088,East Suburbs,Highway,Static,Backlit,60,30,1800000,550000,2025-05-10,2025-11-09,CL07,BMW India,Automotive,Active,2025-04-25
+MUM-S-322,Kemps Corner,400036,South Mumbai,Commercial Hub,Digital,LED,40,20,1700000,650000,2025-08-20,2026-02-19,CL15,Tanishq,Jewellery,Active,2025-08-02
+MUM-W-323,Malad Mindspace,400064,West Suburbs,Commercial Hub,Static,Frontlit,50,25,1400000,600000,,,,,,Active,2025-01-30
+MUM-C-324,Worli Dairy,400018,Mumbai City,Arterial Road,Digital,LED,40,20,1850000,590000,2025-09-01,2026-08-31,CL16,Cadbury,FMCG,Active,2025-08-31
+PAL-R-325,Vasai, Ambadi Road,401202,Palghar,Residential Area,Digital,LED,30,15,1000000,320000,2025-07-01,2025-12-31,CL05,Lodha Group,Real Estate,Active,2024-03-15
+MUM-W-326,Jogeshwari, Western Express Highway,400060,West Suburbs,Highway,Static,Backlit,70,35,2200000,750000,2025-08-15,2025-11-14,CL11,Emirates,Travel,Active,2025-07-28
+MUM-E-327,Deonar, near Dumping Ground,400088,East Suburbs,Arterial Road,Digital,LED,50,25,1100000,290000,2025-09-01,2026-02-28,CL19,Pepsi,FMCG,Active,2022-06-25
+MUM-S-328,Gateway of India,400001,South Mumbai,Leisure,Static,Frontlit,40,20,1700000,850000,2025-01-01,2025-12-31,CL13,Taj Hotels,Hospitality,Active,2024-11-25
+THA-C-329,Bhiwandi, Kalyan-Bhiwandi Road,421302,Thane,Commercial Hub,Digital,LED,60,30,1800000,550000,,,,,,Expired,2021-10-10
+MUM-W-330,Borivali National Park Entrance,400066,West Suburbs,Leisure,Digital,LED,40,20,1200000,370000,2025-06-10,2025-09-09,CL10,Amazon Prime,Entertainment,Active,2024-03-01
+MUM-C-331,Lalbaug Flyover,400012,Mumbai City,Highway,Static,Backlit,50,25,1900000,680000,2025-09-01,2025-11-30,CL03,Samsung,Electronics,Active,2025-08-16
+MUM-E-332,Kopar Khairane, Thane-Belapur Road,400709,Navi Mumbai,Commercial Hub,Digital,LED,40,20,1350000,400000,2025-08-01,2026-01-31,CL09,Zomato,Tech,Active,2025-07-18
+MUM-W-333,Yari Road, Versova,400061,West Suburbs,Residential Area,Static,Frontlit,30,15,800000,380000,2025-07-20,2025-10-19,CL01,Netflix India,Entertainment,Active,2024-06-01
+MUM-S-334,Charni Road Station,400004,South Mumbai,Transit Hub,Digital,LED,40,20,1800000,470000,,,,,,Active,2025-04-02
+MUM-C-335,Sasmira, Worli,400030,Mumbai City,Commercial Hub,Static,Backlit,40,20,1500000,580000,2025-05-01,2025-10-31,CL06,Myntra,E-commerce,Active,2025-04-28
+MUM-W-336,Aarey Colony, Goregaon,400065,West Suburbs,Arterial Road,Digital,LED,50,25,900000,280000,2025-09-01,2026-08-31,CL19,Pepsi,FMCG,Active,2023-01-10
+NAV-H-337,Ulwe, near Airport,410206,Navi Mumbai,Highway,Static,Backlit,80,40,2100000,700000,2025-07-20,2026-01-19,CL18,Air India,Travel,Active,2025-07-08
+MUM-E-338,Anushakti Nagar,400094,East Suburbs,Residential Area,Digital,LED,30,15,950000,300000,2025-08-01,2025-10-31,CL17,HDFC Bank,Finance,Active,2024-06-15
+MUM-S-339,Kalbadevi Road,400002,South Mumbai,Commercial Hub,Digital,LED,30,15,1600000,440000,,,,,,Pending,
+MUM-W-340,Thakur Village, Kandivali,400101,West Suburbs,Residential Area,Static,Frontlit,40,20,1050000,450000,2025-06-15,2025-12-14,CL05,Lodha Group,Real Estate,Active,2025-06-10
+MUM-C-341,Five Gardens, Matunga,400019,Mumbai City,Residential Area,Digital,LED,30,15,1100000,400000,2025-04-01,2025-09-30,CL16,Cadbury,FMCG,Active,2024-03-05
+MUM-E-342,Ghansoli, Palm Beach Extension,400701,Navi Mumbai,Arterial Road,Static,Backlit,50,25,1300000,500000,2025-08-15,2025-11-14,CL20,Tata Motors,Automotive,Active,2025-07-26
+MUM-W-343,Dahisar River Bridge,400068,West Suburbs,Arterial Road,Digital,LED,40,20,1500000,400000,,,,,,Active,2024-10-18
+MUM-S-344,Bhuleshwar Market,400002,South Mumbai,Commercial Hub,Digital,LED,30,15,1700000,460000,2025-07-01,2025-12-31,CL02,Coca-Cola,FMCG,Active,2025-03-25
+THA-R-345,Kalyan, Station Road,421301,Thane,Residential Area,Static,Frontlit,40,20,1200000,450000,2025-05-10,2025-11-09,CL03,Samsung,Electronics,Expired,2023-01-18
+MUM-W-346,Marve Beach, Malad,400095,West Suburbs,Leisure,Digital,LED,40,20,900000,300000,2025-08-20,2026-02-19,CL08,Starbucks,F&B,Active,2024-08-01
+MUM-C-347,Antop Hill,400037,Mumbai City,Residential Area,Digital,LED,30,15,1000000,320000,,,,,,Active,2025-02-05
+MUM-E-348,Govandi, near Station,400043,East Suburbs,Transit Hub,Static,Backlit,50,25,1100000,440000,2025-09-01,2026-08-31,CL06,Myntra,E-commerce,Active,2025-09-01
+MUM-S-349,Malabar Hill,400006,South Mumbai,Residential Area,Digital,LED,30,15,1300000,650000,2025-07-01,2025-12-31,CL14,Rolex,Luxury Goods,Active,2025-06-15
+MUM-W-350,Royal Palms, Goregaon,400065,West Suburbs,Residential Area,Static,Frontlit,40,20,600000,350000,2025-08-15,2025-11-14,CL05,Lodha Group,Real Estate,Active,2023-07-01
+MUM-C-351,Hindmata, Dadar,400014,Mumbai City,Commercial Hub,Digital,LED,50,25,2000000,600000,2025-09-01,2026-02-28,CL15,Tanishq,Jewellery,Active,2025-08-20
+MUM-W-352,Film City Main Gate,400065,West Suburbs,Leisure,Static,Backlit,60,30,1200000,600000,2025-01-01,2025-12-31,CL01,Netflix India,Entertainment,Active,2024-12-10
+MUM-E-353,Rabale, MIDC,400701,Navi Mumbai,Industrial,Digital,LED,40,20,1100000,350000,,,,,,Pending,
+MUM-S-354,Crawford Market,400001,South Mumbai,Commercial Hub,Digital,LED,40,20,1900000,520000,2025-06-10,2025-09-09,CL19,Pepsi,FMCG,Active,2025-05-28
+THA-H-355,Dombivli, Manpada Road,421201,Thane,Highway,Static,Frontlit,50,25,1400000,500000,2025-09-01,2025-11-30,CL09,Zomato,Tech,Active,2025-08-26
+MUM-W-356,Poisar Depot, Kandivali,400101,West Suburbs,Transit Hub,Digital,LED,40,20,1300000,360000,2025-08-01,2026-01-31,CL17,HDFC Bank,Finance,Active,2025-07-16
+MUM-C-357,Sewri, near Railway Station,400015,Mumbai City,Transit Hub,Digital,LED,30,15,1200000,340000,2025-07-20,2025-10-19,CL16,Cadbury,FMCG,Active,2024-05-15
+NAV-A-358,Seawoods, Palm Beach Road,400706,Navi Mumbai,Arterial Road,Static,Backlit,60,30,1600000,580000,,,,,,Active,2025-07-01
+MUM-S-359,Zaveri Bazaar,400003,South Mumbai,Commercial Hub,Digital,LED,30,15,1800000,500000,2025-05-01,2025-10-31,CL15,Tanishq,Jewellery,Active,2025-04-20
+MUM-W-360,Bangur Nagar, Goregaon,400104,West Suburbs,Residential Area,Digital,LED,40,20,1150000,340000,2025-09-01,2026-08-31,CL05,Lodha Group,Real Estate,Active,2023-03-25
+MUM-E-361,Turbhe, APMC Market,400705,Navi Mumbai,Commercial Hub,Static,Frontlit,70,35,1700000,620000,2025-07-20,2026-01-19,CL21,Blue Dart,Logistics,Active,2025-07-10
+MUM-C-362,King's Circle, Matunga,400019,Mumbai City,Arterial Road,Digital,LED,40,20,1700000,500000,2025-08-01,2025-10-31,CL04,ICICI Bank,Finance,Active,2025-07-21
+MUM-W-363,Aksa Beach, Malad,400095,West Suburbs,Leisure,Digital,LED,30,15,850000,290000,,,,,,Active,2024-05-01
+PAL-H-364,Nalasopara, Station Flyover,401203,Palghar,Highway,Digital,LED,60,30,1700000,520000,2025-06-15,2025-12-14,CL20,Tata Motors,Automotive,Active,2025-05-30
+MUM-S-365,Ballard Estate,400001,South Mumbai,Commercial Hub,Static,Backlit,40,20,1200000,550000,2025-04-01,2025-09-30,CL13,Taj Hotels,Hospitality,Expired,2022-02-20
+MUM-W-366,JVPD Scheme, Juhu,400049,West Suburbs,Residential Area,Digital,LED,40,20,1300000,520000,2025-08-15,2025-11-14,CL01,Netflix India,Entertainment,Active,2025-07-30
+MUM-E-367,Sanpada, Sion-Panvel Highway,400705,Navi Mumbai,Highway,Static,Frontlit,70,35,2000000,700000,2025-07-01,2025-12-31,CL07,BMW India,Automotive,Active,2025-06-20
+MUM-C-368,Tardeo, AC Market,400034,Mumbai City,Commercial Hub,Digital,LED,30,15,1600000,480000,,,,,,Pending,
+MUM-W-369,IC Colony, Borivali,400103,West Suburbs,Residential Area,Digital,LED,30,15,1050000,320000,2025-05-10,2025-11-09,CL17,HDFC Bank,Finance,Active,2024-03-30
+THA-R-370,Ulhasnagar, near Station,421003,Thane,Residential Area,Static,Backlit,40,20,1000000,420000,2025-08-20,2026-02-19,CL03,Samsung,Electronics,Active,2025-08-05
+MUM-S-371,Flora Fountain,400001,South Mumbai,Leisure,Digital,LED,40,20,1800000,700000,2025-09-01,2026-08-31,CL18,Air India,Travel,Active,2025-09-01
+MUM-W-372,Mahakali Caves Road, Andheri,400093,West Suburbs,Arterial Road,Digital,LED,40,20,1200000,350000,,,,,,Active,2022-10-25
+MUM-E-373,Nerul, Seawoods Bridge,400706,Navi Mumbai,Arterial Road,Static,Frontlit,50,25,1500000,560000,2025-07-01,2025-12-31,CL05,Lodha Group,Real Estate,Active,2025-07-02
+MUM-C-374,Cotton Green Station,400033,Mumbai City,Transit Hub,Digital,LED,30,15,1100000,320000,2025-08-15,2025-11-14,CL02,Coca-Cola,FMCG,Active,2024-07-05
+MUM-W-375,Bhayandar, near Flyover,401105,Mira-Bhayandar,Highway,Digital,LED,60,30,1900000,600000,2025-09-01,2026-02-28,CL12,MG Hector,Automotive,Active,2025-08-28
+MUM-S-376,Mazagaon, Dockyard Road,400010,South Mumbai,Industrial,Static,Backlit,40,20,1100000,450000,2025-01-01,2025-12-31,CL21,Blue Dart,Logistics,Active,2024-11-15
+MUM-W-377,Pali Hill, Bandra,400050,West Suburbs,Residential Area,Digital,LED,30,15,1400000,620000,2025-06-10,2025-09-09,CL14,Rolex,Luxury Goods,Active,2025-05-28
+MUM-E-378,Vikhroli, Godrej Compound,400079,East Suburbs,Commercial Hub,Digital,LED,50,25,1500000,450000,,,,,,Expired,2022-05-10
+MUM-C-379,Wadala, IMAX Dome,400037,Mumbai City,Leisure,Static,Frontlit,60,30,1700000,650000,2025-09-01,2025-11-30,CL10,Amazon Prime,Entertainment,Active,2025-08-18
+MUM-W-380,DN Nagar, Andheri,400058,West Suburbs,Commercial Hub,Digital,LED,40,20,1600000,450000,2025-08-01,2026-01-31,CL06,Myntra,E-commerce,Active,2025-07-20
+MUM-S-381,JJ Flyover Start, Byculla,400008,South Mumbai,Highway,Static,Backlit,50,25,2100000,720000,2025-07-20,2025-10-19,CL09,Zomato,Tech,Active,2025-07-10
+MUM-W-382,Carter Road, Bandra,400050,West Suburbs,Leisure,Digital,LED,40,20,1500000,570000,2025-05-01,2025-10-31,CL08,Starbucks,F&B,Active,2025-04-18
+THA-C-383,Ambernath, Station Road,421501,Thane,Commercial Hub,Digital,LED,40,20,1100000,350000,,,,,,Active,2023-02-10
+MUM-E-384,Mahape, Millennium Business Park,400710,Navi Mumbai,Commercial Hub,Static,Frontlit,60,30,1400000,580000,2025-09-01,2026-08-31,CL04,ICICI Bank,Finance,Active,2025-08-31
+MUM-W-385,Goregaon Sports Club,400104,West Suburbs,Leisure,Digital,LED,30,15,900000,300000,2025-07-20,2026-01-19,CL19,Pepsi,FMCG,Active,2024-06-25
+MUM-C-386,Sion Hospital,400022,Mumbai City,Arterial Road,Digital,LED,40,20,1600000,450000,2025-08-01,2025-10-31,CL17,HDFC Bank,Finance,Active,2025-07-25
+MUM-S-387,Sandhurst Road Station,400009,South Mumbai,Transit Hub,Static,Backlit,40,20,1300000,500000,,,,,,Pending,
+MUM-W-388,Evershine Nagar, Malad,400064,West Suburbs,Residential Area,Digital,LED,40,20,1200000,350000,2025-06-15,2025-12-14,CL05,Lodha Group,Real Estate,Active,2025-06-05
+NAV-I-389,Taloja MIDC,410208,Navi Mumbai,Industrial,Digital,LED,50,25,1000000,320000,2025-04-01,2025-09-30,CL21,Blue Dart,Logistics,Active,2024-02-22
+MUM-E-390,Chembur Naka,400071,East Suburbs,Commercial Hub,Static,Frontlit,50,25,1500000,550000,2025-08-15,2025-11-14,CL15,Tanishq,Jewellery,Active,2025-07-30
+MUM-W-391,Juhu Galli, Andheri,400058,West Suburbs,Commercial Hub,Digital,LED,30,15,1400000,390000,,,,,,Active,2024-09-10
+MUM-C-392,Worli Naka,400018,Mumbai City,Arterial Road,Digital,LED,40,20,1900000,600000,2025-07-01,2025-12-31,CL16,Cadbury,FMCG,Active,2025-06-18
+MUM-S-393,Bhendi Bazaar,400003,South Mumbai,Commercial Hub,Static,Backlit,40,20,1500000,520000,2025-05-10,2025-11-09,CL02,Coca-Cola,FMCG,Active,2025-04-25
+MUM-W-394,Seven Bungalows, Andheri,400061,West Suburbs,Residential Area,Digital,LED,40,20,1350000,420000,2025-08-20,2026-02-19,CL01,Netflix India,Entertainment,Active,2025-08-04
+PAL-T-395,Virar, Bolinj Road,401303,Palghar,Transit Hub,Digital,LED,30,15,1200000,350000,,,,,,Expired,2021-08-10
+MUM-E-396,Airoli Station,400708,Navi Mumbai,Transit Hub,Static,Frontlit,50,25,1200000,480000,2025-09-01,2026-08-31,CL09,Zomato,Tech,Active,2025-09-01
+MUM-W-397,Kandarpada, Dahisar West,400068,West Suburbs,Residential Area,Digital,LED,30,15,1000000,320000,2025-07-01,2025-12-31,CL17,HDFC Bank,Finance,Active,2024-05-18
+MUM-C-398,Bombay Scottish School, Mahim,400016,Mumbai City,Leisure,Digital,LED,40,20,1600000,500000,2025-08-15,2025-11-14,CL10,Amazon Prime,Entertainment,Active,2025-07-31
+MUM-S-399,Hughes Road,400007,South Mumbai,Arterial Road,Static,Backlit,40,20,1600000,620000,2025-09-01,2026-02-28,CL14,Rolex,Luxury Goods,Active,2025-08-19
+MUM-W-400,Infiniti Mall, Andheri,400053,West Suburbs,Commercial Hub,Digital,LED,60,30,1700000,650000,2025-01-01,2025-12-31,CL03,Samsung,Electronics,Active,2024-12-01
+MUM-W-401,Goregaon, Oberoi Mall,400063,West Suburbs,Commercial Hub,Digital,LED,70,35,1800000,750000,2025-08-01,2025-10-31,CL06,Myntra,E-commerce,Active,2025-07-12
+MUM-E-402,Thane, Viviana Mall,400606,Thane,Commercial Hub,Static,Backlit,60,30,1700000,680000,2025-09-01,2025-11-30,CL03,Samsung,Electronics,Active,2025-08-15
+MUM-C-403,Dadar, Plaza Cinema,400028,Mumbai City,Leisure,Digital,LED,40,20,1650000,500000,2025-07-15,2025-10-14,CL01,Netflix India,Entertainment,Active,2025-06-20
+NAV-H-404,Kharghar, Shilp Chowk,410210,Navi Mumbai,Highway,Static,Frontlit,80,40,2000000,750000,2025-06-01,2025-11-30,CL05,Lodha Group,Real Estate,Active,2025-05-15
+MUM-S-405,Chowpatty Beach,400007,South Mumbai,Leisure,Digital,LED,50,25,1900000,700000,2025-10-01,2025-12-31,CL19,Pepsi,FMCG,Active,2024-10-20
+MUM-W-406,Andheri, Fun Republic,400053,West Suburbs,Leisure,Static,Backlit,40,20,1400000,450000,,,,,,Pending,
+MUM-E-407,Vashi, Inorbit Mall,400703,Navi Mumbai,Commercial Hub,Digital,LED,60,30,1600000,650000,2025-08-10,2025-11-09,CL09,Zomato,Tech,Active,2025-07-22
+MUM-C-408,Mahalaxmi Race Course,400034,Mumbai City,Leisure,Static,Frontlit,50,25,1500000,600000,2025-09-01,2026-02-28,CL14,Rolex,Luxury Goods,Active,2025-08-11
+MUM-W-409,Borivali, Indraprastha Mall,400092,West Suburbs,Commercial Hub,Digital,LED,40,20,1300000,400000,2025-07-01,2026-06-30,CL02,Coca-Cola,FMCG,Expired,2022-07-01
+THA-A-410,Kalyan, Khadakpada,421301,Thane,Arterial Road,Static,Backlit,40,20,1200000,350000,2025-05-01,2025-10-31,CL17,HDFC Bank,Finance,Active,2024-03-10
+MUM-S-411,Lamington Road, IT Hub,400007,South Mumbai,Commercial Hub,Digital,LED,30,15,1300000,400000,,,,,,Active,2025-04-05
+MUM-W-412,Kandivali, Growel's 101 Mall,400101,West Suburbs,Commercial Hub,Static,Frontlit,50,25,1500000,500000,2025-08-01,2026-01-31,CL10,Amazon Prime,Entertainment,Active,2025-07-06
+MUM-E-413,Ghatkopar, Neelyog Square,400077,East Suburbs,Commercial Hub,Digital,LED,40,20,1400000,480000,2025-07-20,2025-10-19,CL03,Samsung,Electronics,Active,2025-06-28
+MUM-C-414,Worli, Atria Mall,400018,Mumbai City,Commercial Hub,Static,Backlit,60,30,1700000,680000,2025-09-01,2026-08-31,CL06,Myntra,E-commerce,Active,2025-08-18
+NAV-L-415,Panvel, Orion Mall,410206,Navi Mumbai,Leisure,Digital,LED,50,25,1400000,550000,2025-08-15,2025-11-14,CL01,Netflix India,Entertainment,Active,2025-07-28
+MUM-W-416,Santacruz Station East,400055,West Suburbs,Transit Hub,Static,Frontlit,40,20,1600000,420000,,,,,,Active,2024-09-15
+MUM-S-417,Mumbadevi Temple,400003,South Mumbai,Leisure,Digital,LED,30,15,1500000,450000,2025-07-01,2025-12-31,CL15,Tanishq,Jewellery,Active,2025-06-11
+MUM-E-418,Mulund, R Mall,400080,East Suburbs,Commercial Hub,Static,Backlit,50,25,1300000,400000,2025-05-10,2025-11-09,CL09,Zomato,Tech,Active,2025-04-20
+MUM-W-419,Vile Parle, Flower Market,400056,West Suburbs,Commercial Hub,Digital,LED,40,20,1200000,380000,2025-08-20,2026-02-19,CL16,Cadbury,FMCG,Active,2025-07-31
+MUM-C-420,Sion, Peninsular Park,400022,Mumbai City,Commercial Hub,Static,Frontlit,60,30,1800000,600000,2025-09-01,2026-08-31,CL04,ICICI Bank,Finance,Expired,2023-08-01
+MUM-W-421,Bandra, National College,400050,West Suburbs,Leisure,Digital,LED,40,20,1500000,480000,,,,,,Active,2024-10-01
+MUM-S-422,Masjid Bunder Station,400009,South Mumbai,Transit Hub,Static,Backlit,40,20,1700000,450000,2025-07-01,2025-12-31,CL21,Blue Dart,Logistics,Active,2025-06-08
+MUM-E-423,Chembur, Diamond Garden,400071,East Suburbs,Residential Area,Digital,LED,30,15,1100000,350000,2025-08-15,2025-11-14,CL05,Lodha Group,Real Estate,Active,2023-04-10
+MUM-W-424,Malad, Evershine Mall,400064,West Suburbs,Commercial Hub,Static,Frontlit,50,25,1400000,420000,2025-09-01,2026-02-28,CL06,Myntra,E-commerce,Active,2025-08-12
+THA-H-425,Badlapur, Highway,421503,Thane,Highway,Digital,LED,60,30,1200000,400000,2025-01-01,2025-12-31,CL20,Tata Motors,Automotive,Active,2024-12-20
+MUM-C-426,Matunga, Ruia College,400019,Mumbai City,Leisure,Static,Backlit,40,20,1300000,380000,,,,,,Pending,
+MUM-S-427,Dockyard Road Station,400010,South Mumbai,Transit Hub,Digital,LED,40,20,1100000,350000,2025-06-10,2025-09-09,CL18,Air India,Travel,Active,2025-05-16
+MUM-W-428,Kandivali, Raghuleela Mall,400067,West Suburbs,Commercial Hub,Static,Frontlit,50,25,1450000,480000,2025-09-01,2025-11-30,CL03,Samsung,Electronics,Active,2025-08-09
+MUM-E-429,Kurla, Phoenix Marketcity,400070,East Suburbs,Commercial Hub,Digital,LED,80,40,2000000,900000,2025-08-01,2026-01-31,CL11,Emirates,Travel,Active,2025-07-14
+MUM-C-430,Worli, Nehru Centre,400018,Mumbai City,Leisure,Static,Backlit,40,20,1600000,580000,2025-07-20,2025-10-19,CL13,Taj Hotels,Hospitality,Active,2025-06-26
+MUM-W-431,Andheri, Laxmi Industrial Estate,400053,West Suburbs,Industrial,Digital,LED,50,25,1300000,450000,,,,,,Active,2022-03-01
+MUM-S-432,Prarthana Samaj, Girgaon,400004,South Mumbai,Residential Area,Static,Frontlit,30,15,1400000,420000,2025-05-01,2025-10-31,CL17,HDFC Bank,Finance,Active,2024-03-20
+NAV-T-433,Juinagar Station,400706,Navi Mumbai,Transit Hub,Digital,LED,40,20,1100000,380000,2025-09-01,2026-08-31,CL09,Zomato,Tech,Active,2025-08-16
+MUM-W-434,Jogeshwari, Behram Baug,400102,West Suburbs,Residential Area,Static,Backlit,40,20,1150000,320000,2025-07-20,2026-01-19,CL05,Lodha Group,Real Estate,Active,2024-05-25
+MUM-E-435,Kanjurmarg Station,400042,East Suburbs,Transit Hub,Digital,LED,40,20,1200000,390000,,,,,,Active,2025-02-12
+MUM-C-436,Naigaon, Dadar East,400014,Mumbai City,Residential Area,Static,Frontlit,30,15,1250000,360000,2025-08-01,2025-10-31,CL16,Cadbury,FMCG,Expired,2023-05-11
+MUM-S-437,Reay Road Station,400033,South Mumbai,Transit Hub,Digital,LED,30,15,1000000,330000,2025-06-15,2025-12-14,CL21,Blue Dart,Logistics,Active,2025-05-20
+MUM-W-438,Borivali, Kora Kendra,400092,West Suburbs,Leisure,Static,Backlit,50,25,1350000,430000,2025-04-01,2025-09-30,CL02,Coca-Cola,FMCG,Active,2025-02-28
+THA-R-439,Ambivli, near Station,421102,Thane,Residential Area,Digital,LED,40,20,900000,300000,2025-08-15,2025-11-14,CL20,Tata Motors,Automotive,Active,2024-07-18
+MUM-E-440,Turbhe, Sanpada Highway,400705,Navi Mumbai,Highway,Static,Frontlit,70,35,1900000,650000,,,,,,Active,2025-01-20
+MUM-W-441,Vile Parle, Hanuman Road,400057,West Suburbs,Residential Area,Digital,LED,30,15,1100000,370000,2025-07-01,2025-12-31,CL01,Netflix India,Entertainment,Active,2025-06-16
+MUM-C-442,Parel, Wadia Hospital,400012,Mumbai City,Arterial Road,Static,Backlit,40,20,1550000,480000,2025-05-10,2025-11-09,CL17,HDFC Bank,Finance,Active,2025-04-22
+MUM-S-443,Marine Lines Station,400002,South Mumbai,Transit Hub,Digital,LED,40,20,1800000,550000,2025-08-20,2026-02-19,CL18,Air India,Travel,Active,2025-07-29
+MUM-W-444,Goregaon, NESCO,400063,West Suburbs,Commercial Hub,Static,Frontlit,70,35,1900000,700000,2025-09-01,2026-08-31,CL07,BMW India,Automotive,Active,2025-08-14
+PAL-H-445,Palghar, Highway,401404,Palghar,Highway,Digital,LED,80,40,1500000,500000,,,,,,Pending,
+MUM-E-446,Bhandup, Dreams Mall,400078,East Suburbs,Commercial Hub,Static,Backlit,50,25,1200000,380000,2025-07-01,2025-12-31,CL10,Amazon Prime,Entertainment,Active,2024-06-08
+MUM-C-447,Dadar, Sena Bhavan,400028,Mumbai City,Arterial Road,Digital,LED,40,20,1700000,540000,2025-08-15,2025-11-14,CL06,Myntra,E-commerce,Active,2025-07-21
+MUM-W-448,Andheri, Citi Mall,400053,West Suburbs,Commercial Hub,Static,Frontlit,50,25,1500000,490000,2025-09-01,2026-02-28,CL03,Samsung,Electronics,Active,2025-08-10
+MUM-S-449,Girgaon, Khetwadi,400004,South Mumbai,Residential Area,Digital,LED,30,15,1300000,410000,2025-01-01,2025-12-31,CL15,Tanishq,Jewellery,Active,2024-12-15
+MUM-W-450,Juhu, ISKCON Temple,400049,West Suburbs,Leisure,Static,Backlit,40,20,1400000,460000,2025-06-10,2025-09-09,CL08,Starbucks,F&B,Active,2025-05-22
+MUM-W-451,Bandra-Worli Sea Link,400050,West Suburbs,Highway,Digital,LED,60,30,2500000,850000,2025-07-01,2025-12-31,CL01,Netflix India,Entertainment,Active,2024-11-15
+MUM-C-452,Dadar Station West,400028,Mumbai City,Transit Hub,Static,Backlit,40,20,1800000,400000,2025-08-15,2025-11-14,CL02,Coca-Cola,FMCG,Active,2025-03-10
+MUM-W-453,Juhu Circle,400049,West Suburbs,Commercial Hub,Digital,LED,50,25,1500000,600000,2025-09-01,2026-02-28,CL03,Samsung,Electronics,Active,2025-01-20
+MUM-S-454,Marine Drive,400020,South Mumbai,Arterial Road,Static,Frontlit,30,15,2000000,750000,2025-01-01,2025-12-31,CL04,ICICI Bank,Finance,Expired,2022-12-01
+MUM-W-455,Andheri East Station,400069,West Suburbs,Transit Hub,Static,Backlit,40,20,1750000,380000,,,,,,Pending,2024-08-22
+MUM-E-456,Powai, Hiranandani,400076,East Suburbs,Digital,LED,40,20,1200000,550000,2025-06-10,2025-09-09,CL05,Lodha Group,Real Estate,Active,2025-05-18
+MUM-W-457,Goregaon Film City Road,400065,West Suburbs,Arterial Road,Static,Frontlit,50,25,900000,250000,2025-09-01,2025-11-30,CL01,Netflix India,Entertainment,Active,2024-07-30
+MUM-S-458,CST Station,400001,South Mumbai,Transit Hub,Digital,LED,60,30,2200000,800000,2025-08-01,2026-01-31,CL06,Myntra,E-commerce,Active,2025-02-11
+MUM-W-459,Bandra Linking Road,400050,West Suburbs,Commercial Hub,Static,Backlit,30,15,1600000,450000,2025-07-20,2025-10-19,CL06,Myntra,E-commerce,Active,2024-09-05
+THA-H-460,Thane, Eastern Express Highway,400604,Thane,Highway,Static,Backlit,80,40,2800000,950000,2025-05-01,2025-10-31,CL07,BMW India,Automotive,Active,2025-04-12
+MUM-E-461,Chembur, Sion-Trombay Road,400071,East Suburbs,Static,Frontlit,40,20,1100000,280000,,,,,,Active,2022-10-25
+MUM-S-462,Colaba Causeway,400005,South Mumbai,Commercial Hub,Digital,LED,30,15,1300000,500000,2025-09-01,2025-11-30,CL08,Starbucks,F&B,Active,2025-08-01
+MUM-W-463,Malad, SV Road,400064,West Suburbs,Static,Frontlit,50,25,1400000,320000,2025-04-15,2025-10-14,CL02,Coca-Cola,FMCG,Expired,2023-01-15
+NAV-H-464,Navi Mumbai, Palm Beach Road,400705,Navi Mumbai,Highway,Digital,LED,60,30,1900000,650000,2025-08-20,2026-02-19,CL05,Lodha Group,Real Estate,Active,2025-07-20
+MUM-C-465,Worli Sea Face,400030,Mumbai City,Arterial Road,Static,Frontlit,40,20,1600000,550000,2025-03-01,2026-02-28,CL04,ICICI Bank,Finance,Active,2024-12-10
+NAV-T-466,Vashi Station Complex,400703,Navi Mumbai,Transit Hub,Digital,LED,50,25,1700000,620000,,,,,,Active,2025-06-11
+MUM-W-467,Kandivali, Western Express Highway,400101,West Suburbs,Highway,Static,Backlit,70,35,2600000,900000,2025-07-01,2025-09-30,CL07,BMW India,Automotive,Active,2025-01-05
+MUM-C-468,Lower Parel, Phoenix Mills,400013,Mumbai City,Commercial Hub,Digital,LED,40,20,1800000,700000,2025-08-05,2025-11-04,CL09,Zomato,Tech,Active,2025-02-28
+MUM-E-469,Ghatkopar, LBS Marg,400086,East Suburbs,Static,Backlit,40,20,1300000,300000,2025-09-01,2025-09-30,CL10,Amazon Prime,Entertainment,Active,2024-05-14
+MUM-C-470,Sion Circle,400022,Mumbai City,Arterial Road,Static,Frontlit,30,15,1450000,350000,,,,,,Pending,
+MUM-W-471,Bandra Kurla Complex (BKC),400051,West Suburbs,Commercial Hub,Digital,LED,60,30,2000000,900000,2025-01-01,2025-12-31,CL04,ICICI Bank,Finance,Active,2024-11-20
+MUM-C-472,Dadar TT Circle,400014,Mumbai City,Arterial Road,Digital,LED,40,20,1600000,580000,2025-06-15,2025-12-14,CL03,Samsung,Electronics,Active,2025-03-03
+MUM-W-473,Andheri, Link Road,400053,West Suburbs,Commercial Hub,Static,Backlit,50,25,1550000,420000,2025-05-10,2025-11-09,CL06,Myntra,E-commerce,Active,2024-08-18
+MUM-W-474,Mumbai Airport T2,400099,West Suburbs,Transit Hub,Digital,LED,80,40,2400000,1200000,2025-07-01,2026-06-30,CL11,Emirates,Travel,Active,2025-06-01
+MUM-C-475,Mahim Causeway,400016,Mumbai City,Arterial Road,Static,Frontlit,40,20,1700000,480000,,,,,,Expired,2022-08-10
+NAV-H-476,Panvel, Mumbai-Pune Expressway,410206,Navi Mumbai,Highway,Static,Backlit,100,50,3000000,1100000,2025-08-01,2026-01-31,CL12,MG Hector,Automotive,Active,2025-07-15
+MUM-W-477,Borivali Station West,400092,West Suburbs,Transit Hub,Static,Frontlit,40,20,1650000,360000,2025-09-01,2025-11-30,CL02,Coca-Cola,FMCG,Active,2024-06-25
+MUM-S-478,Nariman Point,400021,South Mumbai,Commercial Hub,Digital,LED,50,25,1800000,780000,2025-02-14,2025-10-13,CL13,Taj Hotels,Hospitality,Active,2024-10-10
+MUM-W-479,Kalanagar, Bandra East,400051,West Suburbs,Arterial Road,Static,Frontlit,30,15,1350000,400000,,,,,,Active,2025-01-14
+PAL-H-480,Virar, Highway Junction,401303,Palghar,Highway,Static,Backlit,60,30,1500000,450000,2025-09-01,2026-03-01,CL05,Lodha Group,Real Estate,Active,2024-11-01
+MUM-W-481,Juhu Beach,400049,West Suburbs,Leisure,Static,Frontlit,40,20,1250000,380000,2025-07-15,2025-10-14,CL08,Starbucks,F&B,Active,2023-05-20
+MUM-S-482,Churchgate Station,400020,South Mumbai,Transit Hub,Digital,LED,40,20,1900000,650000,2025-06-01,2025-11-30,CL10,Amazon Prime,Entertainment,Active,2025-04-22
+MUM-C-483,Haji Ali Junction,400026,Mumbai City,Arterial Road,Digital,LED,50,25,2100000,760000,2025-08-10,2026-02-09,CL14,Rolex,Luxury Goods,Active,2025-07-07
+MUM-E-484,Kurla, LBS Marg,400070,East Suburbs,Commercial Hub,Static,Backlit,60,30,1600000,430000,2025-03-01,2025-09-30,CL03,Samsung,Electronics,Expired,2022-04-19
+MUM-W-485,Vile Parle, SV Road,400056,West Suburbs,Arterial Road,Static,Frontlit,40,20,1400000,340000,,,,,,Active,2024-09-30
+MUM-S-486,Peddar Road,400026,South Mumbai,Residential Area,Static,Frontlit,30,15,900000,450000,2025-05-01,2025-10-31,CL14,Rolex,Luxury Goods,Active,2025-02-01
+THA-R-487,Thane, Ghodbunder Road,400607,Thane,Residential Area,Digital,LED,40,20,1100000,500000,2025-09-01,2026-08-31,CL05,Lodha Group,Real Estate,Active,2025-08-15
+MUM-E-488,Mulund Check Naka,400080,East Suburbs,Highway,Static,Backlit,70,35,2400000,800000,2025-07-20,2026-01-19,CL12,MG Hector,Automotive,Active,2025-05-05
+MUM-S-489,Fort, DN Road,400001,South Mumbai,Commercial Hub,Static,Frontlit,40,20,1500000,500000,2025-08-01,2025-10-31,CL04,ICICI Bank,Finance,Active,2024-10-18
+MUM-W-490,Santacruz, Western Express Highway,400055,West Suburbs,Highway,Static,Backlit,60,30,2300000,820000,2025-06-15,2025-12-14,CL01,Netflix India,Entertainment,Active,2025-01-28
+NAV-C-491,Airoli, Thane-Belapur Road,400708,Navi Mumbai,Commercial Hub,Digital,LED,50,25,1400000,580000,2025-09-01,2026-02-28,CL09,Zomato,Tech,Active,2025-08-11
+MUM-C-492,Byculla, Dr Ambedkar Road,400027,Mumbai City,Arterial Road,Static,Backlit,40,20,1200000,290000,,,,,,Pending,
+MUM-W-493,Dahisar Check Naka,400068,West Suburbs,Highway,Static,Backlit,80,40,2700000,920000,2025-04-01,2025-09-30,CL07,BMW India,Automotive,Active,2024-12-22
+MUM-W-494,Khar, 14th Road,400052,West Suburbs,Residential Area,Static,Frontlit,30,15,850000,300000,2025-08-15,2025-11-14,CL06,Myntra,E-commerce,Active,2023-03-20
+MUM-W-495,Sakinaka, Andheri-Kurla Road,400072,West Suburbs,Commercial Hub,Digital,LED,40,20,1650000,620000,2025-07-01,2025-12-31,CL11,Emirates,Travel,Active,2025-06-16
+MUM-S-496,Grant Road, Lamington Road,400007,South Mumbai,Commercial Hub,Static,Backlit,30,15,1150000,280000,2025-09-01,2025-11-30,CL03,Samsung,Electronics,Active,2024-07-01
+MUM-S-497,Cuffe Parade,400005,South Mumbai,Residential Area,Digital,LED,30,15,950000,550000,2025-05-10,2025-11-09,CL13,Taj Hotels,Hospitality,Active,2025-04-01
+MUM-E-498,Bhandup, LBS Marg,400078,East Suburbs,Arterial Road,Static,Frontlit,50,25,1250000,310000,,,,,,Expired,2022-07-11
+MUM-W-499,Kalina, BKC Connector,400098,West Suburbs,Arterial Road,Static,Backlit,40,20,1800000,500000,2025-08-20,2026-02-19,CL01,Netflix India,Entertainment,Active,2025-07-25
+NAV-C-500,Belapur CBD,400614,Navi Mumbai,Commercial Hub,Digital,LED,60,30,1600000,680000,2025-09-01,2026-08-31,CL04,ICICI Bank,Finance,Active,2025-08-20
+
