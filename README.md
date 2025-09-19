@@ -50,7 +50,7 @@ A high-level summary for leadership to understand overall performance and risk e
 ### 2️⃣ Risk Investigation Deep Dive  
 Interactive view for analysts to explore why billboards were flagged.  
 
-![Risk Investigation Dashboard](https://github.com/aryanpange/mumbai-billboard-analytics/blob/main/dashboard-overview.png?raw=true)  
+![Risk Investigation Dashboard](https://github.com/aryanpange/mumbai-billboard-analytics/blob/main/dashboard-investigation.png?raw=true)  
 
 ---
 
