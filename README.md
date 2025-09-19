@@ -51,16 +51,14 @@ A high-level summary for leadership to understand overall performance and risk e
 ### 2️⃣ Risk Investigation Deep Dive  
 Interactive view for analysts to explore why billboards were flagged.  
 
-![Risk Investigation Dashboard](https://github.com/aryanpange/mumbai-billboard-analytics
-/blob/main/dashboard-investigation.png?raw=true)  
+![Risk Investigation Dashboard](https://github.com/aryanpange/mumbai-billboard-analytics/blob/main/dashboard-overview.png?raw=true)  
 
 ---
 
 ### 3️⃣ Market & Inventory Analysis  
 Strategic page for the marketing team to compare Digital vs. Static boards and analyze borough-level trends.  
 
-![Market Analysis Dashboard](https://github.com/aryanpange/mumbai-billboard-analytics
-/blob/main/dashboard-market-analysis.png?raw=true)  
+![Market Analysis Dashboard](https://github.com/aryanpange/mumbai-billboard-analytics/blob/main/dashboard-market-analysis.png?raw=true)  
 
 ---
 
